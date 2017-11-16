@@ -1,0 +1,708 @@
+date,time,shooter,team,keeper,opposition,result,home_team,away_team,home_score,away_score,goal,on_target,save
+3/7/2015,89:42:00,Jozy Altidore,Toronto,David Ousted,Vancouver,Goal,Vancouver,Toronto,1,2,1,1,0
+3/9/2015,24:36:00,Clint Dempsey,Seattle,Bobby Shuttleworth,New England,Goal,Seattle,New England,0,0,1,1,0
+3/15/2015,85:57:00,Alvaro Saborio,Salt Lake,Rais M'bolhi,Philadelphia,Goal,Salt Lake,Philadelphia,2,3,1,1,0
+3/15/2015,78:56:00,Dominic Dwyer,Kansas City,Chris Seitz,FC Dallas,Saved,FC Dallas,Kansas City,3,1,0,1,1
+3/22/2015,91:01:00,Chris Pontius,DC United,Luis Robles,New York,Miss,New York,DC United,2,0,0,0,0
+3/28/2015,13:40,Ignacio Piatti,Montreal,Donovan Ricketts,Orlando City,Goal,Montreal,Orlando City,0,0,1,1,0
+3/28/2015,61:25:00,Chris Wondolowski,San Jose,Bobby Shuttleworth,New England,Goal,New England,San Jose,2,0,1,1,0
+3/28/2015,48:38:00,Bradley Wright-Phillips,New York,Steve Clark,Columbus,Goal,Columbus,New York,0,0,1,1,0
+4/5/2015,53:54:00,Lee Nguyen,New England,Clint Irwin,Colorado,Goal,Colorado,New England,0,1,1,1,0
+4/12/2015,84:40:00,Kaka,Orlando City,Adam Larsen Kwarasey,Portland,Goal,Portland,Orlando City,0,1,1,1,0
+4/26/2015,79:37:00,Benny Feilhaber,Kansas City,Tyler Deric,Houston,Goal,Houston,Kansas City,3,2,1,1,0
+4/30/2015,29:27:00,Bradley Wright-Phillips,New York,Clint Irwin,Colorado,Goal,New York,Colorado,0,1,1,1,0
+5/3/2015,30:13:00,Darlington Nagbe,Portland,David Ousted,Vancouver,Post,Portland,Vancouver,0,0,0,0,0
+5/6/2015,57:40:00,Giles Barnes,Houston,David Bingham,San Jose,Saved,Houston,San Jose,0,1,0,1,1
+5/7/2015,91:53:00,Juninho,L.A. Galaxy,Nick Rimando,Salt Lake,Saved,Salt Lake,L.A. Galaxy,0,0,0,1,1
+5/9/2015,87:29:00,Jeff Larentowicz,Chicago,Nick Rimando,Salt Lake,Goal,Chicago,Salt Lake,0,2,1,1,0
+5/10/2015,43:00:00,Boniek Garcia,Houston,Chris Konopka,Toronto,Saved,Toronto,Houston,0,0,0,1,1
+5/16/2015,26:51:00,Jeff Larentowicz,Chicago,Josh Saunders,New York City FC,Goal,New York City FC,Chicago,0,1,1,1,0
+5/16/2015,42:51:00,Ignacio Piatti,Montreal,Nick Rimando,Salt Lake,Post,Montreal,Salt Lake,3,0,0,0,0
+5/17/2015,55:22:00,Kaka,Orlando City,Jaime Penedo,L.A. Galaxy,Goal,Orlando City,L.A. Galaxy,2,0,1,1,0
+5/21/2015,42:01:00,Benny Feilhaber,Kansas City,Brad Knighton,New England,Goal,Kansas City,New England,2,1,1,1,0
+5/24/2015,24:25:00,Ignacio Piatti,Montreal,Dan Kennedy,FC Dallas,Goal,Montreal,FC Dallas,0,0,1,1,0
+5/25/2015,63:12:00,Kaka,Orlando City,David Bingham,San Jose,Goal,San Jose,Orlando City,0,0,1,1,0
+5/25/2015,67:01:00,Chris Wondolowski,San Jose,Tally Hall,Orlando City,Goal,San Jose,Orlando City,0,1,1,1,0
+5/28/2015,6:04,Juninho,L.A. Galaxy,Nick Rimando,Salt Lake,Goal,L.A. Galaxy,Salt Lake,0,0,1,1,0
+5/30/2015,23:18,Chris Wondolowski,San Jose,Chris Konopka,Toronto,Goal,Toronto,San Jose,1,0,1,1,0
+5/31/2015,84:34:00,Chris Rolfe,DC United,Brian Sylvestre,Philadelphia,Goal,DC United,Philadelphia,1,1,1,1,0
+5/31/2015,44:02:00,Jeff Larentowicz,Chicago,Evan Bush,Montreal,Goal,Chicago,Montreal,1,0,1,1,0
+5/31/2015,16:08,Kaka,Orlando City,Steve Clark,Columbus,Goal,Orlando City,Columbus,0,1,1,1,0
+5/31/2015,45:07:00,David Villa,New York City FC,Tyler Deric,Houston,Goal,New York City FC,Houston,0,1,1,1,0
+6/4/2015,26:47:00,Jeff Larentowicz,Chicago,Andrew Dykstra,DC United,Saved,DC United,Chicago,0,0,0,1,1
+6/4/2015,79:00:00,Pedro Morales,Vancouver,Evan Bush,Montreal,Goal,Montreal,Vancouver,1,0,1,1,0
+6/7/2015,83:02:00,Benny Feilhaber,Kansas City,Stefan Frei,Seattle,Goal,Kansas City,Seattle,0,0,1,1,0
+6/7/2015,88:41:00,Dillon Powers,Colorado,Nick Rimando,Salt Lake,Miss,Salt Lake,Colorado,0,0,0,0,0
+6/15/2015,29:10:00,Kaka,Orlando City,Bill Hamid,DC United,Saved,Orlando City,DC United,0,0,0,1,1
+6/21/2015,4:56,Bradley Wright-Phillips,New York,David Ousted,Vancouver,Saved,New York,Vancouver,0,0,0,1,1
+6/21/2015,64:55:00,Bradley Wright-Phillips,New York,David Ousted,Vancouver,Saved,New York,Vancouver,0,1,0,1,1
+6/21/2015,60:19:00,Gaston Fernandez,Portland,Tyler Deric,Houston,Goal,Portland,Houston,1,0,1,1,0
+6/21/2015,80:37:00,Chris Rolfe,DC United,Bobby Shuttleworth,New England,Goal,DC United,New England,1,1,1,1,0
+6/21/2015,8:00,David Villa,New York City FC,Chris Konopka,Toronto,Goal,Toronto,New York City FC,0,0,1,1,0
+6/25/2015,17:09,Robbie Keane,L.A. Galaxy,Adam Larsen Kwarasey,Portland,Goal,L.A. Galaxy,Portland,1,0,1,1,0
+6/25/2015,31:33:00,Maurice Edu,Philadelphia,Stefan Frei,Seattle,Saved,Philadelphia,Seattle,0,0,0,1,1
+6/25/2015,81:07:00,Sebastian Giovinco,Toronto,Evan Bush,Montreal,Goal,Toronto,Montreal,2,1,1,1,0
+6/28/2015,30:18:00,Octavio Rivero,Vancouver,Bobby Shuttleworth,New England,Goal,New England,Vancouver,0,1,1,1,0
+7/5/2015,8:51,Robbie Keane,L.A. Galaxy,Chris Konopka,Toronto,Goal,L.A. Galaxy,Toronto,0,0,1,1,0
+7/5/2015,76:42:00,Ignacio Piatti,Montreal,Josh Saunders,New York City FC,Goal,Montreal,New York City FC,0,1,1,1,0
+7/12/2015,88:14:00,Sal Zizzo,New York,Bobby Shuttleworth,New England,Saved,New York,New England,4,1,0,1,1
+7/12/2015,45:56:00,Mauro Diaz,FC Dallas,Tally Hall,Orlando City,Goal,Orlando City,FC Dallas,0,0,1,1,0
+7/12/2015,88:53:00,Carlos Rivas,Orlando City,Dan Kennedy,FC Dallas,Miss,Orlando City,FC Dallas,0,2,0,0,0
+7/12/2015,18:54,Sebastian Giovinco,Toronto,Josh Saunders,New York City FC,Post,New York City FC,Toronto,1,0,0,0,0
+7/12/2015,28:43:00,David Villa,New York City FC,Chris Konopka,Toronto,Saved,New York City FC,Toronto,1,0,0,1,1
+7/12/2015,33:43:00,Sebastian Giovinco,Toronto,Josh Saunders,New York City FC,Goal,New York City FC,Toronto,0,2,1,1,0
+7/12/2015,64:20:00,David Villa,New York City FC,Chris Konopka,Toronto,Goal,New York City FC,Toronto,0,5,1,1,0
+7/18/2015,29:58:00,Robbie Keane,L.A. Galaxy,David Bingham,San Jose,Goal,L.A. Galaxy,San Jose,0,2,1,1,0
+7/18/2015,79:49:00,Robbie Keane,L.A. Galaxy,David Bingham,San Jose,Goal,L.A. Galaxy,San Jose,3,2,1,1,0
+7/19/2015,1:40,Federico Higuain,Columbus,Sean Johnson,Chicago,Goal,Columbus,Chicago,0,0,1,1,0
+7/25/2015,72:23:00,Joao Plata,Salt Lake,Tim Melia,Kansas City,Goal,Salt Lake,Kansas City,1,1,1,1,0
+7/26/2015,88:36:00,Jozy Altidore,Toronto,Steve Clark,Columbus,Goal,Columbus,Toronto,3,2,1,1,0
+7/26/2015,43:54:00,Shaun Maloney,Chicago,Brad Knighton,New England,Goal,Chicago,New England,0,1,1,1,0
+7/26/2015,86:19:00,Mauro Diaz,FC Dallas,Adam Larsen Kwarasey,Portland,Goal,FC Dallas,Portland,3,0,1,1,0
+7/26/2015,92:06:00,Fanendo Adi,Portland,Dan Kennedy,FC Dallas,Goal,FC Dallas,Portland,4,0,1,1,0
+7/26/2015,32:46:00,Fabian Espindola,DC United,Brian Sylvestre,Philadelphia,Miss,DC United,Philadelphia,0,2,0,0,0
+7/27/2015,55:27:00,Octavio Rivero,Vancouver,David Bingham,San Jose,Goal,Vancouver,San Jose,2,0,1,1,0
+8/1/2015,67:19:00,David Villa,New York City FC,Evan Bush,Montreal,Goal,New York City FC,Montreal,0,2,1,1,0
+8/1/2015,83:37:00,Ignacio Piatti,Montreal,Josh Saunders,New York City FC,Goal,New York City FC,Montreal,1,2,1,1,0
+8/2/2015,65:16:00,Sacha Kljestan,New York,John McCarthy,Philadelphia,Goal,Philadelphia,New York,0,0,1,1,0
+8/2/2015,53:58:00,Chris Rolfe,DC United,Jeff Attinella,Salt Lake,Goal,DC United,Salt Lake,1,2,1,1,0
+8/2/2015,43:48:00,Lee Nguyen,New England,Joe Bendik,Toronto,Goal,New England,Toronto,1,0,1,1,0
+8/2/2015,74:29:00,Diego Valeri,Portland,David Bingham,San Jose,Post,San Jose,Portland,0,0,0,0,0
+8/3/2015,84:07:00,Shaun Maloney,Chicago,Dan Kennedy,FC Dallas,Goal,Chicago,FC Dallas,1,0,1,1,0
+8/6/2015,11:24,Sebastian Giovinco,Toronto,Tally Hall,Orlando City,Goal,Toronto,Orlando City,0,0,1,1,0
+8/8/2015,21:04,Benny Feilhaber,Kansas City,Joe Bendik,Toronto,Goal,Toronto,Kansas City,0,0,1,1,0
+8/9/2015,6:16,Octavio Rivero,Vancouver,Jeff Attinella,Salt Lake,Goal,Vancouver,Salt Lake,0,0,1,1,0
+8/16/2015,29:18:00,Obafemi Martins,Seattle,Tally Hall,Orlando City,Saved,Seattle,Orlando City,1,0,0,1,1
+8/20/2015,16:21,Chris Wondolowski,San Jose,Tim Melia,Kansas City,Goal,Kansas City,San Jose,0,1,1,1,0
+8/22/2015,82:46:00,Jozy Altidore,Toronto,Tally Hall,Orlando City,Goal,Toronto,Orlando City,3,0,1,1,0
+8/23/2015,12:00,Javier Morales,Salt Lake,Stefan Frei,Seattle,Goal,Salt Lake,Seattle,0,0,1,1,0
+8/23/2015,79:14:00,David Villa,New York City FC,Donovan Ricketts,L.A. Galaxy,Goal,L.A. Galaxy,New York City FC,4,0,1,1,0
+8/27/2015,9:43,Sacha Kljestan,New York,Sean Johnson,Chicago,Goal,Chicago,New York,0,0,1,1,0
+8/27/2015,19:33,Vicente Sanchez,Colorado,Tyler Deric,Houston,Goal,Colorado,Houston,0,0,1,1,0
+8/27/2015,36:06:00,Brad Davis,Houston,Clint Irwin,Colorado,Goal,Colorado,Houston,1,0,1,1,0
+8/30/2015,50:15:00,Tesho Akindele,FC Dallas,Nick Rimando,Salt Lake,Goal,FC Dallas,Salt Lake,0,0,1,1,0
+8/30/2015,77:41:00,Javier Morales,Salt Lake,Jesse Gonzalez,FC Dallas,Post,FC Dallas,Salt Lake,1,0,0,0,0
+8/30/2015,41:51:00,Brad Evans,Seattle,Adam Larsen Kwarasey,Portland,Goal,Seattle,Portland,1,0,1,1,0
+9/6/2015,63:50:00,Chris Wondolowski,San Jose,John McCarthy,Philadelphia,Goal,San Jose,Philadelphia,0,0,1,1,0
+9/6/2015,35:28:00,Jeff Larentowicz,Chicago,Evan Bush,Montreal,Goal,Montreal,Chicago,1,0,1,1,0
+9/7/2015,24:32:00,Federico Higuain,Columbus,Jesse Gonzalez,FC Dallas,Miss,Columbus,FC Dallas,0,0,0,0,0
+9/12/2015,13:43,Jeff Larentowicz,Chicago,Luis Robles,New York,Goal,New York,Chicago,0,0,1,1,0
+9/12/2015,70:25:00,Sacha Kljestan,New York,Sean Johnson,Chicago,Goal,New York,Chicago,2,2,1,1,0
+9/13/2015,64:01:00,Brad Davis,Houston,Nick Rimando,Salt Lake,Goal,Houston,Salt Lake,0,2,1,1,0
+9/13/2015,69:11:00,Patrick Mullins,New York City FC,Jesse Gonzalez,FC Dallas,Goal,FC Dallas,New York City FC,2,0,1,1,0
+9/19/2015,75:56:00,Benny Feilhaber,Kansas City,Jesse Gonzalez,FC Dallas,Goal,Kansas City,FC Dallas,1,0,1,1,0
+9/20/2015,67:06:00,Chris Rolfe,DC United,Steve Clark,Columbus,Goal,DC United,Columbus,0,2,1,1,0
+9/20/2015,27:17:00,Javier Morales,Salt Lake,Donovan Ricketts,L.A. Galaxy,Goal,Salt Lake,L.A. Galaxy,1,0,1,1,0
+9/20/2015,75:12:00,Chris Wondolowski,San Jose,Josh Saunders,New York City FC,Goal,New York City FC,San Jose,3,1,1,1,0
+9/27/2015,35:04:00,Lee Nguyen,New England,Andre Blake,Philadelphia,Goal,New England,Philadelphia,0,0,1,1,0
+9/27/2015,87:23:00,Pedro Morales,Vancouver,Josh Saunders,New York City FC,Goal,Vancouver,New York City FC,0,1,1,1,0
+9/27/2015,94:54:00,David Villa,New York City FC,David Ousted,Vancouver,Goal,Vancouver,New York City FC,1,1,1,1,0
+10/4/2015,24:29:00,Mauro Diaz,FC Dallas,Tyler Deric,Houston,Goal,FC Dallas,Houston,0,0,1,1,0
+10/8/2015,15:55,Sacha Kljestan,New York,Evan Bush,Montreal,Goal,New York,Montreal,0,0,1,1,0
+10/8/2015,28:11:00,Sacha Kljestan,New York,Evan Bush,Montreal,Saved,New York,Montreal,1,0,0,1,1
+10/8/2015,67:05:00,Didier Drogba,Montreal,Luis Robles,New York,Goal,New York,Montreal,2,0,1,1,0
+10/15/2015,42:45:00,Mauro Diaz,FC Dallas,David Ousted,Vancouver,Saved,FC Dallas,Vancouver,1,0,0,1,1
+10/15/2015,54:00:00,Fanendo Adi,Portland,Nick Rimando,Salt Lake,Goal,Salt Lake,Portland,0,0,1,1,0
+10/19/2015,67:10:00,Fanendo Adi,Portland,Donovan Ricketts,L.A. Galaxy,Goal,L.A. Galaxy,Portland,1,1,1,1,0
+10/25/2015,34:52:00,Sacha Kljestan,New York,Alec Kann,Chicago,Goal,Chicago,New York,0,1,1,1,0
+10/25/2015,40:34:00,Sebastien Le Toux,Philadelphia,Josh Ford,Orlando City,Goal,Philadelphia,Orlando City,0,0,1,1,0
+10/25/2015,90:36:00,David Villa,New York City FC,Bobby Shuttleworth,New England,Goal,New York City FC,New England,0,3,1,1,0
+7/2/2016,53:11:00,Ignacio Piatti,Montreal,Brad Knighton,New England,Goal,Montreal,New England,2,2,1,1,0
+7/4/2016,48:30:00,Benny Feilhaber,Kansas City,Steve Clark,Columbus,Goal,Kansas City,Columbus,0,1,1,1,0
+7/10/2016,86:59:00,Cristian Techera,Vancouver,Tim Howard,Colorado,Goal,Vancouver,Colorado,1,1,1,1,0
+7/10/2016,19:30,Roland Alberg,Philadelphia,Bill Hamid,DC United,Goal,Philadelphia,DC United,0,0,1,1,0
+7/10/2016,36:28:00,Ilsinho,Philadelphia,Bill Hamid,DC United,Goal,Philadelphia,DC United,1,0,1,1,0
+7/10/2016,78:22:00,Yura Movsisyan,Salt Lake,Evan Bush,Montreal,Goal,Salt Lake,Montreal,0,1,1,1,0
+7/14/2016,5:50,Clint Dempsey,Seattle,Chris Seitz,FC Dallas,Goal,Seattle,FC Dallas,0,0,1,1,0
+7/16/2016,7:17,Robbie Keane,L.A. Galaxy,Joe Willis,Houston,Miss,L.A. Galaxy,Houston,0,0,0,0,0
+7/17/2016,59:32:00,Julio Baptista,Orlando City,David Ousted,Vancouver,Miss,Vancouver,Orlando City,2,2,0,0,0
+7/18/2016,66:09:00,C.J. Sapong,Philadelphia,Luis Robles,New York,Goal,Philadelphia,New York,0,2,1,1,0
+3/13/2016,69:34:00,Pedro Morales,Vancouver,Tim Melia,Kansas City,Goal,Kansas City,Vancouver,2,0,1,1,0
+3/13/2016,23:51,David Villa,New York City FC,Clint Irwin,Toronto,Goal,New York City FC,Toronto,0,0,1,1,0
+3/20/2016,46:43:00,Ilsinho,Philadelphia,Bobby Shuttleworth,New England,Saved,Philadelphia,New England,2,0,0,1,1
+3/20/2016,78:51:00,Sebastien Le Toux,Philadelphia,Bobby Shuttleworth,New England,Saved,Philadelphia,New England,2,0,0,1,1
+3/20/2016,9:28,Pedro Morales,Vancouver,Stefan Frei,Seattle,Goal,Seattle,Vancouver,0,0,1,1,0
+3/20/2016,73:32:00,Pedro Morales,Vancouver,Stefan Frei,Seattle,Goal,Seattle,Vancouver,1,1,1,1,0
+3/20/2016,90:57:00,Robbie Keane,L.A. Galaxy,David Bingham,San Jose,Goal,L.A. Galaxy,San Jose,2,1,1,1,0
+3/20/2016,83:40:00,Fanendo Adi,Portland,Nick Rimando,Salt Lake,Goal,Portland,Salt Lake,1,2,1,1,0
+3/26/2016,65:45:00,Fabian Espindola,DC United,Chris Seitz,FC Dallas,Saved,DC United,FC Dallas,0,3,0,1,1
+3/27/2016,22:23,Pedro Morales,Vancouver,Joe Willis,Houston,Goal,Vancouver,Houston,0,0,1,1,0
+3/6/2016,81:19:00,Sebastian Giovinco,Toronto,Luis Robles,New York,Goal,New York,Toronto,0,0,1,1,0
+3/6/2016,25:59:00,Joao Plata,Salt Lake,Joe Bendik,Orlando City,Goal,Orlando City,Salt Lake,0,0,1,1,0
+3/6/2016,71:13:00,David Accam,Chicago,Josh Saunders,New York City FC,Goal,Chicago,New York City FC,2,4,1,1,0
+3/7/2016,82:03:00,Robbie Keane,L.A. Galaxy,Andrew Dykstra,DC United,Goal,L.A. Galaxy,DC United,2,1,1,1,0
+4/10/2016,63:18:00,Bradley Wright-Phillips,New York,Tim Melia,Kansas City,Saved,New York,Kansas City,0,2,0,1,1
+4/10/2016,35:18:00,Tesho Akindele,FC Dallas,David Bingham,San Jose,Goal,FC Dallas,San Jose,0,1,1,1,0
+4/17/2016,86:52:00,David Villa,New York City FC,Steve Clark,Columbus,Goal,Columbus,New York City FC,2,1,1,1,0
+4/17/2016,90:53:00,Chris Wondolowski,San Jose,Jake Gleeson,Portland,Goal,Portland,San Jose,2,0,1,1,0
+4/17/2016,1:37,Kaka,Orlando City,Bobby Shuttleworth,New England,Goal,Orlando City,New England,0,0,1,1,0
+4/17/2016,95:49:00,Lee Nguyen,New England,Joe Bendik,Orlando City,Goal,Orlando City,New England,1,1,1,1,0
+4/23/2016,32:51:00,Lamar Neagle,DC United,Bobby Shuttleworth,New England,Goal,DC United,New England,0,0,1,1,0
+4/23/2016,39:07:00,Sebastian Giovinco,Toronto,Evan Bush,Montreal,Goal,Montreal,Toronto,0,0,1,1,0
+4/24/2016,20:31,Kei Kamara,Columbus,Tyler Deric,Houston,Goal,Columbus,Houston,0,0,1,1,0
+4/24/2016,66:59:00,Shkelzen Gashi,Colorado,Stefan Frei,Seattle,Saved,Colorado,Seattle,2,1,0,1,1
+4/24/2016,5:20,Steven Gerrard,L.A. Galaxy,Nick Rimando,Salt Lake,Saved,L.A. Galaxy,Salt Lake,0,0,0,1,1
+4/24/2016,69:59:00,Javier Morales,Salt Lake,Brian Rowe,L.A. Galaxy,Goal,L.A. Galaxy,Salt Lake,4,1,1,1,0
+4/24/2016,58:51:00,Chris Wondolowski,San Jose,Tim Melia,Kansas City,Goal,San Jose,Kansas City,0,0,1,1,0
+4/30/2016,62:51:00,Christian Bolanos,Vancouver,Josh Saunders,New York City FC,Saved,New York City FC,Vancouver,2,1,0,1,1
+4/3/2016,93:13:00,Benny Feilhaber,Kansas City,Jeff Attinella,Salt Lake,Goal,Kansas City,Salt Lake,0,2,1,1,0
+4/4/2016,42:53:00,Fanendo Adi,Portland,Joe Bendik,Orlando City,Saved,Orlando City,Portland,2,0,0,1,1
+4/4/2016,75:30:00,Kevin Molino,Orlando City,Adam Larsen Kwarasey,Portland,Goal,Orlando City,Portland,3,0,1,1,0
+5/15/2016,2:57,Mauro Diaz,FC Dallas,Stefan Frei,Seattle,Goal,FC Dallas,Seattle,0,0,1,1,0
+5/15/2016,34:28:00,Jozy Altidore,Toronto,David Ousted,Vancouver,Saved,Toronto,Vancouver,0,2,0,1,1
+5/22/2016,3:17,Diego Valeri,Portland,David Ousted,Vancouver,Goal,Portland,Vancouver,0,0,1,1,0
+5/22/2016,77:10:00,Dairon Asprilla,Portland,David Ousted,Vancouver,Goal,Portland,Vancouver,2,1,1,1,0
+5/22/2016,83:35:00,Pedro Morales,Vancouver,Jake Gleeson,Portland,Goal,Portland,Vancouver,3,1,1,1,0
+5/22/2016,25:56:00,Lee Nguyen,New England,Chris Seitz,FC Dallas,Goal,New England,FC Dallas,1,1,1,1,0
+5/22/2016,4:06,Tesho Akindele,FC Dallas,Bobby Shuttleworth,New England,Goal,New England,FC Dallas,2,0,1,1,0
+5/26/2016,36:48:00,Kaka,Orlando City,Andre Blake,Philadelphia,Saved,Orlando City,Philadelphia,0,0,0,1,1
+5/29/2016,47:40:00,Will Johnson,Toronto,Luis Robles,New York,Saved,New York,Toronto,3,0,0,1,1
+5/29/2016,46:33:00,Joao Plata,Salt Lake,Steve Clark,Columbus,Saved,Columbus,Salt Lake,0,3,0,1,1
+5/29/2016,23:12,Lee Nguyen,New England,Stefan Frei,Seattle,Goal,New England,Seattle,0,1,1,1,0
+5/29/2016,69:18:00,David Villa,New York City FC,Joe Bendik,Orlando City,Miss,New York City FC,Orlando City,2,0,0,0,0
+5/8/2016,52:09:00,Federico Higuain,Columbus,Evan Bush,Montreal,Goal,Columbus,Montreal,3,1,1,1,0
+5/8/2016,56:36:00,Didier Drogba,Montreal,Steve Clark,Columbus,Goal,Columbus,Montreal,4,1,1,1,0
+5/8/2016,83:53:00,Chris Wondolowski,San Jose,Stefan Frei,Seattle,Post,Seattle,San Jose,1,0,0,0,0
+6/18/2016,54:07:00,Roland Alberg,Philadelphia,Josh Saunders,New York City FC,Goal,New York City FC,Philadelphia,3,0,1,1,0
+6/19/2016,69:50:00,Yura Movsisyan,Salt Lake,Jake Gleeson,Portland,Goal,Salt Lake,Portland,1,2,1,1,0
+6/19/2016,46:19:00,Benny Feilhaber,Kansas City,Chris Seitz,FC Dallas,Goal,Kansas City,FC Dallas,1,0,1,1,0
+6/23/2016,55:22:00,Roland Alberg,Philadelphia,Sean Johnson,Chicago,Goal,Philadelphia,Chicago,1,3,1,1,0
+6/26/2016,38:02:00,Ignacio Piatti,Montreal,Tim Melia,Kansas City,Goal,Montreal,Kansas City,1,1,1,1,0
+6/26/2016,99:34:00,Kaka,Orlando City,Alex Bono,Toronto,Goal,Orlando City,Toronto,2,2,1,1,0
+6/26/2016,81:21:00,Diego Valeri,Portland,Joe Willis,Houston,Goal,Portland,Houston,1,2,1,1,0
+6/26/2016,90:19:00,Diego Valeri,Portland,Joe Willis,Houston,Goal,Portland,Houston,2,2,1,1,0
+6/3/2016,86:36:00,David Villa,New York City FC,Nick Rimando,Salt Lake,Goal,New York City FC,Salt Lake,1,3,1,1,0
+7/24/2016,50:31:00,Ola Kamara,Columbus,Joe Bendik,Orlando City,Goal,Columbus,Orlando City,1,0,1,1,0
+7/24/2016,40:37:00,Sacha Kljestan,New York,Josh Saunders,New York City FC,Goal,New York,New York City FC,2,0,1,1,0
+7/30/2016,83:41:00,Frank Lampard,New York City FC,Tim Howard,Colorado,Goal,New York City FC,Colorado,4,0,1,1,0
+8/1/2016,43:12:00,Roland Alberg,Philadelphia,Nick Rimando,Salt Lake,Goal,Philadelphia,Salt Lake,0,0,1,1,0
+8/7/2016,75:57:00,Sebastian Giovinco,Toronto,Bobby Shuttleworth,New England,Goal,Toronto,New England,2,0,1,1,0
+8/7/2016,27:31:00,Javier Morales,Salt Lake,Matt Lampson,Chicago,Goal,Salt Lake,Chicago,1,0,1,1,0
+8/14/2016,79:03:00,Ethan Finlay,Columbus,Josh Saunders,New York City FC,Goal,Columbus,New York City FC,1,1,1,1,0
+8/14/2016,91:59:00,David Villa,New York City FC,Steve Clark,Columbus,Goal,Columbus,New York City FC,2,2,1,1,0
+8/15/2016,81:04:00,Clint Dempsey,Seattle,Nick Rimando,Salt Lake,Post,Seattle,Salt Lake,2,1,0,0,0
+8/21/2016,63:48:00,Benny Feilhaber,Kansas City,David Ousted,Vancouver,Goal,Kansas City,Vancouver,1,0,1,1,0
+8/21/2016,70:00:00,Marcelo Sarvas,DC United,Luis Robles,New York,Goal,DC United,New York,0,2,1,1,0
+8/22/2016,60:06:00,Clint Dempsey,Seattle,Jake Gleeson,Portland,Goal,Seattle,Portland,0,0,1,1,0
+8/25/2016,38:37:00,Lamar Neagle,DC United,Evan Bush,Montreal,Goal,Montreal,DC United,0,0,1,1,0
+8/25/2016,38:11:00,David Accam,Chicago,Clement Diop,L.A. Galaxy,Goal,Chicago,L.A. Galaxy,1,1,1,1,0
+8/27/2016,56:35:00,Yura Movsisyan,Salt Lake,Tim Howard,Colorado,Miss,Salt Lake,Colorado,2,1,0,0,0
+8/27/2016,82:42:00,Javier Morales,Salt Lake,Tim Howard,Colorado,Saved,Salt Lake,Colorado,2,1,0,1,1
+8/28/2016,58:40:00,Mauro Diaz,FC Dallas,Joe Willis,Houston,Goal,Houston,FC Dallas,1,0,1,1,0
+8/28/2016,83:17:00,Justin Meram,Columbus,Andrew Tarbell,San Jose,Goal,Columbus,San Jose,1,0,1,1,0
+8/29/2016,62:52:00,Kaka,Orlando City,Josh Saunders,New York City FC,Goal,Orlando City,New York City FC,1,1,1,1,0
+9/4/2016,32:19:00,Lee Nguyen,New England,Zac MacMath,Colorado,Post,New England,Colorado,1,0,0,0,0
+9/4/2016,13:33,Mauro Diaz,FC Dallas,Jake Gleeson,Portland,Goal,FC Dallas,Portland,0,0,1,1,0
+9/4/2016,91:39:00,Ola Kamara,Columbus,Brian Rowe,L.A. Galaxy,Saved,L.A. Galaxy,Columbus,2,0,0,1,1
+9/8/2016,53:05:00,Kaka,Orlando City,Evan Bush,Montreal,Goal,Montreal,Orlando City,1,2,1,1,0
+9/8/2016,69:18:00,Didier Drogba,Montreal,Joe Bendik,Orlando City,Saved,Montreal,Orlando City,1,3,0,1,1
+9/8/2016,52:09:00,Joao Plata,Salt Lake,Brian Rowe,L.A. Galaxy,Goal,Salt Lake,L.A. Galaxy,0,1,1,1,0
+9/12/2016,44:33:00,Giovani dos Santos,L.A. Galaxy,Joe Bendik,Orlando City,Goal,L.A. Galaxy,Orlando City,2,1,1,1,0
+9/18/2016,49:57:00,Didier Drogba,Montreal,Brad Knighton,New England,Goal,Montreal,New England,0,2,1,1,0
+9/25/2016,56:10:00,Shkelzen Gashi,Colorado,David Ousted,Vancouver,Goal,Vancouver,Colorado,1,1,1,1,0
+9/25/2016,33:07:00,Mauro Manotas,Houston,Jake Gleeson,Portland,Goal,Houston,Portland,0,0,1,1,0
+9/25/2016,84:15:00,Robbie Keane,L.A. Galaxy,Stefan Frei,Seattle,Goal,L.A. Galaxy,Seattle,1,4,1,1,0
+9/26/2016,83:01:00,Ola Kamara,Columbus,Brad Knighton,New England,Goal,Columbus,New England,1,0,1,1,0
+9/29/2016,86:42:00,Chris Wondolowski,San Jose,Evan Bush,Montreal,Saved,Montreal,San Jose,2,1,0,1,1
+10/3/2016,24:38:00,Pedro Morales,Vancouver,Stefan Frei,Seattle,Goal,Vancouver,Seattle,0,0,1,1,0
+10/3/2016,80:36:00,Brad Evans,Seattle,David Ousted,Vancouver,Goal,Vancouver,Seattle,1,1,1,1,0
+10/14/2016,56:52:00,Chris Wondolowski,San Jose,Tim Howard,Colorado,Goal,Colorado,San Jose,1,0,1,1,0
+10/14/2016,72:48:00,Kevin Doyle,Colorado,David Bingham,San Jose,Goal,Colorado,San Jose,1,1,1,1,0
+10/16/2016,71:17:00,David Villa,New York City FC,Bill Hamid,DC United,Goal,DC United,New York City FC,3,0,1,1,0
+10/16/2016,6:53,Sacha Kljestan,New York,Brad Stuver,Columbus,Saved,New York,Columbus,0,0,0,1,1
+10/16/2016,54:32:00,Ignacio Piatti,Montreal,Clint Irwin,Toronto,Goal,Montreal,Toronto,1,1,1,1,0
+10/16/2016,34:26:00,Fanendo Adi,Portland,Tim Howard,Colorado,Goal,Portland,Colorado,0,0,1,1,0
+10/16/2016,38:41:00,Fanendo Adi,Portland,Tim Howard,Colorado,Saved,Portland,Colorado,1,0,0,1,1
+10/23/2016,26:37:00,Benny Feilhaber,Kansas City,David Bingham,San Jose,Goal,Kansas City,San Jose,0,0,1,1,0
+10/23/2016,44:41:00,Sebastian Giovinco,Toronto,Patrick McLain,Chicago,Goal,Toronto,Chicago,0,1,1,1,0
+10/23/2016,71:20:00,Diego Valeri,Portland,David Ousted,Vancouver,Goal,Vancouver,Portland,4,0,1,1,0
+03/04/2017,81:20,Diego Valeri,Portland,John Alvbage,Minnesota United,Goal,Portland,Minnesota United,2,1,1,1,0
+03/04/2017,52:55,Giovani dos Santos,L.A. Galaxy,Chris Seitz,FC Dallas,Goal,L.A. Galaxy,FC Dallas,0,1,1,1,0
+03/04/2017,30:13,Sebastian Giovinco,Toronto,Nick Rimando,Salt Lake,Saved,Salt Lake,Toronto,0,0,0,1,1
+03/05/2017,16:43,Marcelo Sarvas,DC United,Tim Melia,Kansas City,Saved,DC United,Kansas City,0,0,0,1,1
+03/11/2017,32:38,Alejandro Bedoya,Philadelphia,Clint Irwin,Toronto,Post,Philadelphia,Toronto,1,0,0,0,0
+03/11/2017,46:45,Jozy Altidore,Toronto,Andre Blake,Philadelphia,Goal,Philadelphia,Toronto,1,0,1,1,0
+03/12/2017,82:46,Nicolas Lodeiro,Seattle,Evan Bush,Montreal,Goal,Montreal,Seattle,2,0,1,1,0
+03/12/2017,29:57,Kevin Molino,Minnesota United,Alec Kann,Atlanta United,Goal,Minnesota United,Atlanta United,0,3,1,1,0
+03/18/2017,37:27,Federico Higuain,Columbus,Bill Hamid,DC United,Goal,DC United,Columbus,0,0,1,1,0
+03/18/2017,65:58,Ola Kamara,Columbus,Bill Hamid,DC United,Goal,DC United,Columbus,0,1,1,1,0
+03/19/2017,9:18,Lee Nguyen,New England,Chris Seitz,FC Dallas,Goal,FC Dallas,New England,0,0,1,1,0
+03/19/2017,27:43,Clint Dempsey,Seattle,Luis Robles,New York,Goal,Seattle,New York,0,0,1,1,0
+03/19/2017,49:02,Kevin Molino,Minnesota United,Tim Howard,Colorado,Goal,Colorado,Minnesota United,1,0,1,1,0
+03/19/2017,10:36,Diego Valeri,Portland,Tyler Deric,Houston,Goal,Portland,Houston,0,0,1,1,0
+03/19/2017,37:22,Erick Torres,Houston,Jake Gleeson,Portland,Goal,Portland,Houston,1,0,1,1,0
+03/25/2017,31:18,Lee Nguyen,New England,Bobby Shuttleworth,Minnesota United,Goal,New England,Minnesota United,2,1,1,1,0
+03/25/2017,52:08,Chris Tierney,New England,Bobby Shuttleworth,Minnesota United,Goal,New England,Minnesota United,4,2,1,1,0
+04/02/2017,26:16,Luciano Acosta,DC United,Andre Blake,Philadelphia,Goal,DC United,Philadelphia,1,0,1,1,0
+04/02/2017,40:52,Erick Torres,Houston,Luis Robles,New York,Goal,Houston,New York,1,1,1,1,0
+04/09/2017,87:03,Fanendo Adi,Portland,Andre Blake,Philadelphia,Goal,Philadelphia,Portland,1,2,1,1,0
+04/10/2017,93:03,Kevin Doyle,Colorado,Tim Melia,Kansas City,Goal,Kansas City,Colorado,2,0,1,1,0
+04/15/2017,49:16,Ignacio Piatti,Montreal,Alec Kann,Atlanta United,Goal,Montreal,Atlanta United,0,1,1,1,0
+04/16/2017,84:57,Yura Movsisyan,Salt Lake,Zac MacMath,Colorado,Goal,Colorado,Salt Lake,1,0,1,1,0
+04/22/2017,8:59,Erick Torres,Houston,David Bingham,San Jose,Goal,Houston,San Jose,0,0,1,1,0
+04/22/2017,38:26,Roland Alberg,Philadelphia,Evan Bush,Montreal,Goal,Philadelphia,Montreal,2,0,1,1,0
+04/22/2017,58:36,Fredy Montero,Vancouver,Jeff Attinella,Portland,Saved,Portland,Vancouver,2,0,0,1,1
+04/23/2017,37:10,Daniel Royer,New York,Zack Steffen,Columbus,Goal,New York,Columbus,1,0,1,1,0
+05/06/2017,22:32,Jozy Altidore,Toronto,Stefan Frei,Seattle,Goal,Seattle,Toronto,0,0,1,1,0
+05/07/2017,84:11,C.J. Sapong,Philadelphia,Luis Robles,New York,Goal,Philadelphia,New York,2,0,1,1,0
+05/07/2017,11:27,Mauro Manotas,Houston,Joe Bendik,Orlando City,Miss,Houston,Orlando City,0,0,0,0,0
+05/07/2017,2:59,Maximiliano Urruti,FC Dallas,Matt Van Oekel,Salt Lake,Goal,Salt Lake,FC Dallas,4,0,1,1,0
+05/07/2017,12:04,David Accam,Chicago,Brian Rowe,L.A. Galaxy,Goal,L.A. Galaxy,Chicago,0,0,1,1,0
+05/11/2017,27:45,Federico Higuain,Columbus,Alexander Bono,Toronto,Goal,Columbus,Toronto,0,0,1,1,0
+05/11/2017,37:56,Jozy Altidore,Toronto,Zack Steffen,Columbus,Saved,Columbus,Toronto,1,0,0,1,1
+05/13/2017,19:18,Sebastian Giovinco,Toronto,Bobby Shuttleworth,Minnesota United,Goal,Toronto,Minnesota United,0,0,1,1,0
+05/13/2017,61:43,Kevin Molino,Minnesota United,Alexander Bono,Toronto,Saved,Toronto,Minnesota United,0,3,0,1,1
+05/13/2017,67:07,Erick Torres,Houston,David Ousted,Vancouver,Goal,Houston,Vancouver,1,0,1,1,0
+05/14/2017,24:27,Nemanja Nikolic,Chicago,Stefan Frei,Seattle,Goal,Chicago,Seattle,0,0,1,1,0
+05/14/2017,77:46,Giovani dos Santos,L.A. Galaxy,Luis Robles,New York,Goal,New York,L.A. Galaxy,0,2,1,1,0
+05/20/2017,80:54,Jozy Altidore,Toronto,Luis Robles,New York,Saved,New York,Toronto,1,1,0,1,1
+05/20/2017,54:24,Clint Dempsey,Seattle,Nick Rimando,Salt Lake,Saved,Seattle,Salt Lake,1,0,0,1,1
+05/20/2017,12:31,Ignacio Piatti,Montreal,Jake Gleeson,Portland,Goal,Montreal,Portland,0,0,1,1,0
+05/21/2017,79:02,Miguel Almiron,Atlanta United,Joe Willis,Houston,Goal,Atlanta United,Houston,3,0,1,1,0
+05/21/2017,89:22,Erick Torres,Houston,Alec Kann,Atlanta United,Goal,Atlanta United,Houston,4,0,1,1,0
+05/21/2017,66:11,C.J. Sapong,Philadelphia,Tim Howard,Colorado,Goal,Philadelphia,Colorado,0,1,1,1,0
+05/21/2017,52:15,Fredy Montero,Vancouver,Tim Melia,Kansas City,Saved,Vancouver,Kansas City,1,0,0,1,1
+05/22/2017,13:32,David Villa,New York City FC,Joe Bendik,Orlando City,Goal,Orlando City,New York City FC,0,0,1,1,0
+05/22/2017,63:10,Cyle Larin,Orlando City,Sean Johnson,New York City FC,Post,Orlando City,New York City FC,0,2,0,0,0
+05/26/2017,92:52,Nemanja Nikolic,Chicago,Chris Seitz,FC Dallas,Saved,Chicago,FC Dallas,2,1,0,1,1
+05/27/2017,5:37,Victor Vazquez,Toronto,Zack Steffen,Columbus,Goal,Toronto,Columbus,0,0,1,1,0
+05/28/2017,8:52,Lee Nguyen,New England,Luis Robles,New York,Goal,New York,New England,0,0,1,1,0
+05/28/2017,34:24,Giovani dos Santos,L.A. Galaxy,David Bingham,San Jose,Goal,San Jose,L.A. Galaxy,1,1,1,1,0
+05/28/2017,60:15,Lamar Neagle,DC United,David Ousted,Vancouver,Goal,Vancouver,DC United,0,0,1,1,0
+05/28/2017,95:38,Cristian Techera,Vancouver,Bill Hamid,DC United,Post,Vancouver,DC United,0,1,0,0,0
+06/10/2017,69:11,Nemanja Nikolic,Chicago,Alec Kann,Atlanta United,Goal,Chicago,Atlanta United,1,0,1,1,0
+06/17/2017,51:37,David Villa,New York City FC,Stefan Frei,Seattle,Goal,New York City FC,Seattle,0,1,1,1,0
+06/22/2017,36:41,Diego Valeri,Portland,Bobby Shuttleworth,Minnesota United,Goal,Minnesota United,Portland,-1,2,1,1,0
+06/22/2017,70:22,Romain Alessandrini,L.A. Galaxy,Tim Howard,Colorado,Goal,Colorado,L.A. Galaxy,1,2,1,1,0
+06/25/2017,69:44,Lamar Neagle,DC United,Andre Blake,Philadelphia,Saved,Philadelphia,DC United,1,0,0,1,1
+06/25/2017,16:44,Cristian Techera,Vancouver,Bobby Shuttleworth,Minnesota United,Goal,Minnesota United,Vancouver,0,0,1,1,0
+06/25/2017,62:08,David Accam,Chicago,Joe Bendik,Orlando City,Goal,Chicago,Orlando City,3,0,1,1,0
+06/26/2017,44:44,Fanendo Adi,Portland,Stefan Frei,Seattle,Goal,Portland,Seattle,0,1,1,1,0
+07/02/2017,73:37,Diego Valeri,Portland,Tim Melia,Kansas City,Saved,Kansas City,Portland,1,1,0,1,1
+07/02/2017,3:01,C.J. Sapong,Philadelphia,Cody Cropper,New England,Goal,Philadelphia,New England,0,0,1,1,0
+07/06/2017,39:46,David Villa,New York City FC,David Ousted,Vancouver,Goal,Vancouver,New York City FC,1,1,1,1,0
+07/06/2017,23:13,Fanendo Adi,Portland,Matt Lampson,Chicago,Goal,Portland,Chicago,0,0,1,1,0
+07/06/2017,54:38,Daniel Royer,New York,Cody Cropper,New England,Goal,New England,New York,2,1,1,1,0
+07/07/2017,68:02,Roland Alberg,Philadelphia,Tim Melia,Kansas City,Goal,Kansas City,Philadelphia,1,0,1,1,0
+07/20/2017,90:22,Victor Vazquez,Toronto,Sean Johnson,New York City FC,Goal,New York City FC,Toronto,2,1,1,1,0
+07/20/2017,49:11,Joao Plata,Salt Lake,Jake Gleeson,Portland,Goal,Portland,Salt Lake,0,1,1,1,0
+07/23/2017,58:07,Benny Feilhaber,Kansas City,Nick Rimando,Salt Lake,Goal,Salt Lake,Kansas City,1,0,1,1,0
+07/27/2017,37:35,Roland Alberg,Philadelphia,Zack Steffen,Columbus,Saved,Philadelphia,Columbus,1,0,0,1,1
+07/30/2017,22:53,Daniel Royer,New York,Maxime Crepeau,Montreal,Goal,New York,Montreal,0,0,1,1,0
+07/30/2017,48:39,Fredy Montero,Vancouver,Jesse Gonzalez,FC Dallas,Goal,FC Dallas,Vancouver,0,1,1,1,0
+07/30/2017,49:24,Joao Plata,Salt Lake,Zack Steffen,Columbus,Goal,Salt Lake,Columbus,0,1,1,1,0
+07/30/2017,74:54,Jozy Altidore,Toronto,Sean Johnson,New York City FC,Goal,Toronto,New York City FC,2,0,1,1,0
+07/30/2017,92:51,Maximiliano Moralez,New York City FC,Alexander Bono,Toronto,Miss,Toronto,New York City FC,4,0,0,0,0
+08/06/2017,47:15,Ignacio Piatti,Montreal,Joe Bendik,Orlando City,Goal,Montreal,Orlando City,0,1,1,1,0
+08/06/2017,75:00,David Villa,New York City FC,Luis Robles,New York,Goal,New York City FC,New York,2,2,1,1,0
+08/07/2017,58:01,Benny Feilhaber,Kansas City,Brad Guzan,Atlanta United,Goal,Kansas City,Atlanta United,0,0,1,1,0
+08/13/2017,90:04,Ignacio Piatti,Montreal,John McCarthy,Philadelphia,Goal,Philadelphia,Montreal,0,1,1,1,0
+08/13/2017,87:50,Ola Kamara,Columbus,Matt Lampson,Chicago,Goal,Columbus,Chicago,2,1,1,1,0
+08/13/2017,48:54,Erick Torres,Houston,Andrew Tarbell,San Jose,Saved,Houston,San Jose,1,0,0,1,1
+08/17/2017,36:04,Matteo Mancosu,Montreal,Matt Lampson,Chicago,Goal,Montreal,Chicago,1,0,1,1,0
+08/20/2017,16:53,Fredy Montero,Vancouver,Tyler Deric,Houston,Goal,Vancouver,Houston,0,0,1,1,0
+08/20/2017,94:03,Chris Wondolowski,San Jose,John McCarthy,Philadelphia,Goal,San Jose,Philadelphia,1,2,1,1,0
+08/21/2017,93:40,Clint Dempsey,Seattle,Bobby Shuttleworth,Minnesota United,Goal,Seattle,Minnesota United,1,1,1,1,0
+08/24/2017,23:04,Federico Higuain,Columbus,Jon Kempin,L.A. Galaxy,Saved,Columbus,L.A. Galaxy,0,0,0,1,1
+08/24/2017,78:21,Ola Kamara,Columbus,Jon Kempin,L.A. Galaxy,Saved,Columbus,L.A. Galaxy,1,0,0,1,1
+08/24/2017,18:41,Nicolas Lodeiro,Seattle,David Ousted,Vancouver,Goal,Vancouver,Seattle,0,0,1,1,0
+08/24/2017,30:48,David Guzman,Portland,Tim Howard,Colorado,Miss,Portland,Colorado,2,1,0,0,0
+08/26/2017,69:25,Gonzalo Veron,New York,Sean Johnson,New York City FC,Goal,New York,New York City FC,0,1,1,1,0
+08/27/2017,49:09,Luis Silva,Salt Lake,Tim Howard,Colorado,Goal,Salt Lake,Colorado,1,0,1,1,0
+08/28/2017,46:19,Diego Valeri,Portland,Stefan Frei,Seattle,Goal,Seattle,Portland,1,0,1,1,0
+09/03/2017,17:55,Romain Alessandrini,L.A. Galaxy,Zac MacMath,Colorado,Goal,L.A. Galaxy,Colorado,0,0,1,1,0
+09/03/2017,74:40,Mauro Diaz,FC Dallas,Luis Robles,New York,Goal,FC Dallas,New York,1,2,1,1,0
+09/14/2017,30:13,Josef Martinez,Atlanta United,Cody Cropper,New England,Goal,Atlanta United,New England,1,0,1,1,0
+09/14/2017,38:47,Josef Martinez,Atlanta United,Cody Cropper,New England,Goal,Atlanta United,New England,2,0,1,1,0
+09/17/2017,12:21,Ignacio Piatti,Montreal,Bobby Shuttleworth,Minnesota United,Saved,Montreal,Minnesota United,1,0,0,1,1
+09/17/2017,20:00,Kevin Molino,Minnesota United,Evan Bush,Montreal,Goal,Montreal,Minnesota United,1,0,1,1,0
+09/17/2017,89:38,Nemanja Nikolic,Chicago,Bill Hamid,DC United,Goal,Chicago,DC United,0,2,1,1,0
+09/24/2017,71:32,Gonzalo Veron,New York,Zack Steffen,Columbus,Goal,Columbus,New York,2,1,1,1,0
+09/24/2017,67:49,Mauro Diaz,FC Dallas,Bobby Shuttleworth,Minnesota United,Saved,Minnesota United,FC Dallas,2,1,0,1,1
+09/25/2017,14:37,Diego Valeri,Portland,Joe Bendik,Orlando City,Goal,Portland,Orlando City,0,0,1,1,0
+09/28/2017,77:01,Gonzalo Veron,New York,Steve Clark,DC United,Goal,New York,DC United,2,2,1,1,0
+09/28/2017,83:35,Alberth Elis,Houston,Clement Diop,L.A. Galaxy,Goal,Houston,L.A. Galaxy,1,3,1,1,0
+10/01/2017,76:19,Daniel Royer,New York,Alexander Bono,Toronto,Goal,Toronto,New York,2,1,1,1,0
+10/01/2017,79:48,Victor Vazquez,Toronto,Luis Robles,New York,Goal,Toronto,New York,2,2,1,1,0
+10/01/2017,9:17,Diego Rubio,Kansas City,Stefan Marinovic,Vancouver,Post,Kansas City,Vancouver,0,0,0,0,0
+10/15/2017,47:34,Sebastian Giovinco,Toronto,Maxime Crepeau,Montreal,Post,Toronto,Montreal,1,0,0,0,0
+10/15/2017,63:40,Nemanja Nikolic,Chicago,Andre Blake,Philadelphia,Goal,Chicago,Philadelphia,1,2,1,1,0
+10/16/2017,47:32,Diego Valeri,Portland,Steve Clark,DC United,Goal,Portland,DC United,0,0,1,1,0
+10/22/2017,83:46,Gonzalo Veron,New York,Steve Clark,DC United,Saved,DC United,New York,1,2,0,1,1
+10/22/2017,72:59,Mauro Diaz,FC Dallas,Clement Diop,L.A. Galaxy,Goal,FC Dallas,L.A. Galaxy,4,1,1,1,0
+10/22/2017,47:32,Patrice Bernier,Montreal,Brad Knighton,New England,Goal,Montreal,New England,0,1,1,1,0
+10/22/2017,51:48,Dominique Badji,Colorado,Stefan Frei,Seattle,Post,Seattle,Colorado,1,0,0,0,0
+10/22/2017,63:34,Nicolas Lodeiro,Seattle,Tim Howard,Colorado,Goal,Seattle,Colorado,1,0,1,1,0
+10/22/2017,92:28,David Villa,New York City FC,Zack Steffen,Columbus,Saved,New York City FC,Columbus,2,2,0,1,1
+10/22/2017,30:23,Yamil Asad,Atlanta United,Alexander Bono,Toronto,Goal,Atlanta United,Toronto,0,0,1,1,0
+40621,62.27,Charlie Davies,DCU,William Hesmer,CLB,Goal,DCU,CLB,1,0,1,1,0
+40621,78.26,Robbie Rogers,CLB,Pat Onstad,DCU,Goal,DCU,CLB,3,0,1,1,0
+40621,8.05,Thierry Henry,NYRB,Kasey Keller,SEA,Saved,NYRB,SEA,0,0,0,1,1
+40628,33.21,Diego Chaves,CHI,Jimmy Nielsen,SKC,Goal,CHI,SKC,0,0,1,1,0
+40628,16.17,Shalrie Joseph,NE,Pat Onstad,DCU,Goal,NE,DCU,1,0,1,1,0
+40628,90.18,Charlie Davies,DCU,Matt Reis,NE,Goal,NE,DCU,2,0,1,1,0
+40628,9.02,Javier Morales,RSL,Josh Saunders,LA,Goal,RSL,LA,1,0,1,1,0
+40634,53.55,Andres Mendoza,CLB,Kevin Hartman,FCD,Goal,CLB,FCD,0,0,1,1,0
+40639,55.22,Eric Hassli,VAN,Bobby Shuttleworth,NE,Goal,VAN,NE,0,0,1,1,0
+40642,89.41,Charlie Davies,DCU,Donovan Ricketts,LA,Goal,DCU,LA,0,1,1,1,0
+40656,7.28,Landon Donovan,LA,Troy Perkins,POR,Goal,LA,POR,1,0,1,1,0
+40656,68.5,Kei Kamara,SKC,Matt Reis,NE,Goal,NE,SKC,1,1,1,1,0
+40656,27.13,David Ferreira,FCD,Jay Nolly,VAN,Miss,VAN,FCD,1,0,0,0,0
+40663,49.54,Emilio Renteria,CLB,Jay Nolly,VAN,Goal,CLB,VAN,0,0,1,1,0
+40663,13.19,Rafael Marquez,NYRB,Jimmy Nielsen,SKC,Saved,NYRB,SKC,0,0,0,1,1
+40663,75.43,Sebastien Le Toux,PHI,Jon Busch,SJ,Goal,PHI,SJ,0,0,1,1,0
+40663,74.48,Brad Evans,SEA,Stefan Frei,TOR,Goal,SEA,TOR,2,0,1,1,0
+40667,70.16,Brad Evans,SEA,Bill Hamid,DCU,Goal,DCU,SEA,2,0,1,1,0
+40670,66.19,Emilio Renteria,CLB,Kasey Keller,SEA,Goal,CLB,SEA,0,1,1,1,0
+40670,49.14,Joao Plata,TOR,Tally Hall,HOU,Goal,TOR,HOU,0,0,1,1,0
+40674,47.19,Daniel Hernandez,FCD,Stefan Frei,TOR,Goal,FCD,TOR,0,0,1,1,0
+40677,61.25,Chris Pontius,DCU,Matt Pickens,COL,Goal,DCU,COL,0,1,1,1,0
+40677,43.43,Landon Donovan,LA,Eric Kronberg,SKC,Goal,LA,SKC,0,1,1,1,0
+40677,48.47,Shalrie Joseph,NE,Jay Nolly,VAN,Goal,NE,VAN,0,0,1,1,0
+40678,34.08,Dwayne De Rosario,NYRB,Dan Kennedy,CHV,Goal,NYRB,CHV,1,2,1,1,0
+40684,11.44,Brad Davis,HOU,Greg Sutton,NYRB,Goal,HOU,NYRB,0,1,1,1,0
+40688,45.35,Landon Donovan,LA,Tally Hall,HOU,Goal,LA,HOU,0,0,1,1,0
+40688,26.51,Jeff Larentowicz,COL,Greg Sutton,NYRB,Saved,NYRB,COL,0,0,0,1,1
+40691,23.07,Eric Hassli,VAN,Greg Sutton,NYRB,Goal,VAN,NYRB,0,0,1,1,0
+40692,67.01,Jack Jewsbury,POR,Bill Hamid,DCU,Goal,POR,DCU,0,1,1,1,0
+40692,74.25,Chris Pontius,DCU,Troy Perkins,POR,Goal,POR,DCU,1,1,1,1,0
+40698,62.07,Conor Casey,COL,Faryd Mondragon,PHI,Goal,COL,PHI,0,0,1,1,0
+40702,75.02,Andres Mendoza,CLB,Nick Rimando,RSL,Goal,CLB,RSL,0,1,1,1,0
+40704,33.05,Shalrie Joseph,NE,Greg Sutton,NYRB,Saved,NYRB,NE,0,0,0,1,1
+40705,28.36,Eric Hassli,VAN,Kasey Keller,SEA,Goal,SEA,VAN,0,0,1,1,0
+40712,37.5,Fabian Espindola,RSL,Bill Hamid,DCU,Goal,RSL,DCU,0,0,1,1,0
+40712,84.1,Charlie Davies,DCU,Nick Rimando,RSL,Goal,RSL,DCU,1,0,1,1,0
+40713,77.07,Jack Jewsbury,POR,Greg Sutton,NYRB,Post,POR,NYRB,3,2,0,0,0
+40713,95.24,Dwayne De Rosario,NYRB,Troy Perkins,POR,Goal,POR,NYRB,3,2,1,1,0
+40719,40.34,Brad Davis,HOU,Bill Hamid,DCU,Goal,DCU,HOU,1,0,1,1,0
+40719,32.59,Omar Bravo,SKC,Joe Cannon,VAN,Goal,SKC,VAN,0,1,1,1,0
+40723,53.03,Nick Soolsma,TOR,Jay Nolly,VAN,Goal,TOR,VAN,0,0,1,1,0
+40728,17.41,Fredy Montero,SEA,Brian Perk,LA,Saved,LA,SEA,0,0,0,1,1
+40728,3.51,Radivoje Lekic,NE,Nick Rimando,RSL,Goal,RSL,NE,0,0,1,1,0
+40728,55.17,Alvaro Saborio,RSL,Matt Reis,NE,Goal,RSL,NE,1,2,1,1,0
+40730,72.1,Terry Dunfield,VAN,William Hesmer,CLB,Saved,VAN,CLB,0,0,0,1,1
+40734,82.06,Osvaldo Alonso,SEA,Troy Perkins,POR,Goal,POR,SEA,2,2,1,1,0
+40740,24.09,Jack Jewsbury,POR,Sean Johnson,CHI,Goal,CHI,POR,0,0,1,1,0
+40744,43.49,Charlie Davies,DCU,Matt Reis,NE,Miss,DCU,NE,0,0,0,0,0
+40747,64.57,Caleb Folan,COL,Matt Reis,NE,Goal,COL,NE,0,1,1,1,0
+40747,89.42,Shalrie Joseph,NE,Matt Pickens,COL,Goal,COL,NE,2,1,1,1,0
+40747,62.37,Alvaro Saborio,RSL,Jon Busch,SJ,Goal,RSL,SJ,0,0,1,1,0
+40754,36.18,Alvaro Fernandez,SEA,Tally Hall,HOU,Goal,HOU,SEA,2,0,1,1,0
+40754,56.46,Jack Jewsbury,POR,Stefan Frei,TOR,Goal,POR,TOR,1,0,1,1,0
+40754,74.33,Landon Donovan,LA,Joe Cannon,VAN,Goal,VAN,LA,0,1,1,1,0
+40761,87.39,Dwayne De Rosario,DCU,Stefan Frei,TOR,Goal,DCU,TOR,2,3,1,1,0
+40761,68.41,Shalrie Joseph,NE,Dan Kennedy,CHV,Goal,NE,CHV,0,2,1,1,0
+40761,76.11,Alvaro Saborio,RSL,Bouna Coundoul,NYRB,Goal,RSL,NYRB,2,0,1,1,0
+40762,43.33,Eric Hassli,VAN,Sean Johnson,CHI,Saved,VAN,CHI,2,1,0,1,1
+40768,33.12,Sebastien Le Toux,PHI,Kevin Hartman,FCD,Goal,PHI,FCD,0,1,1,1,0
+40768,85.27,Sebastien Le Toux,PHI,Kevin Hartman,FCD,Goal,PHI,FCD,1,2,1,1,0
+40768,18.15,Alvaro Fernandez,SEA,Dan Kennedy,CHV,Post,SEA,CHV,0,0,0,0,0
+40768,38.17,Caleb Folan,COL,Jon Busch,SJ,Goal,SJ,COL,1,0,1,1,0
+40775,50.31,Andres Mendoza,CLB,Faryd Mondragon,PHI,Goal,CLB,PHI,1,1,1,1,0
+40782,15.4,Mauro Rosales,SEA,William Hesmer,CLB,Goal,SEA,CLB,1,0,1,1,0
+40782,58.43,Jeff Cunningham,CLB,Kasey Keller,SEA,Goal,SEA,CLB,4,0,1,1,0
+40791,91.14,Omar Bravo,SKC,Josh Saunders,LA,Goal,SKC,LA,1,2,1,1,0
+40793,20.2,Radivoje Lekic,NE,Zac MacMath,PHI,Goal,PHI,NE,0,1,1,1,0
+40793,79.36,Sebastien Le Toux,PHI,Matt Reis,NE,Goal,PHI,NE,2,4,1,1,0
+40796,16.16,Mauro Rosales,SEA,Nick Rimando,RSL,Miss,SEA,RSL,0,1,0,0,0
+40796,52.25,Chris Wondolowski,SJ,Sean Johnson,CHI,Saved,SJ,CHI,1,0,0,1,1
+40800,63.49,Andres Mendoza,CLB,Tally Hall,HOU,Goal,CLB,HOU,0,1,1,1,0
+40800,75.05,Andres Mendoza,CLB,Tally Hall,HOU,Goal,CLB,HOU,1,1,1,1,0
+40803,46.32,Brad Davis,HOU,Jon Busch,SJ,Goal,HOU,SJ,0,1,1,1,0
+40807,93.18,Dwayne De Rosario,DCU,Dan Kennedy,CHV,Saved,DCU,CHV,2,2,0,1,1
+40810,65.12,Luke Rodgers,NYRB,Troy Perkins,POR,Goal,NYRB,POR,1,0,1,1,0
+40810,32.3,Brad Evans,SEA,Joe Cannon,VAN,Goal,VAN,SEA,1,0,1,1,0
+40811,4.12,Sebastian Grazzini,CHI,Matt Reis,NE,Goal,CHI,NE,0,0,1,1,0
+40814,14.21,Kei Kamara,SKC,William Hesmer,CLB,Goal,SKC,CLB,0,0,1,1,0
+40822,43.18,Camilo Da Silva Sanvezzo,VAN,Nick Rimando,RSL,Goal,VAN,RSL,0,0,1,1,0
+40822,52.21,Camilo Da Silva Sanvezzo,VAN,Nick Rimando,RSL,Goal,VAN,RSL,1,0,1,1,0
+40831,89.11,Dwayne De Rosario,DCU,Sean Johnson,CHI,Goal,DCU,CHI,0,0,1,1,0
+40838,55.2,Jack Jewsbury,POR,Nick Rimando,RSL,Post,RSL,POR,1,0,0,0,0
+40838,33.57,Chris Wondolowski,SJ,Chris Seitz,FCD,Goal,SJ,FCD,2,0,1,1,0
+40985,13.27,Brad Davis,HOU,Jon Busch,SJ,Goal,SJ,HOU,0,0,1,1,0
+40991,26.09,Brad Evans,SEA,Tally Hall,HOU,Goal,SEA,HOU,1,0,1,1,0
+40992,29.12,Milovan Mirosevic,CLB,Donovan Ricketts,MTL,Goal,CLB,MTL,0,0,1,1,0
+40993,50.01,Kei Kamara,SKC,Kevin Hartman,FCD,Saved,SKC,FCD,1,1,0,1,1
+40999,47.05,Kenny Cooper,NYRB,Donovan Ricketts,MTL,Goal,NYRB,MTL,1,2,1,1,0
+40999,38.28,Alvaro Saborio,RSL,Troy Perkins,POR,Goal,POR,RSL,0,0,1,1,0
+40999,23.27,Chris Wondolowski,SJ,Michael Gspurning,SEA,Goal,SEA,SJ,0,0,1,1,0
+40999,41.2,Milovan Mirosevic,CLB,Milos Kocic,TOR,Saved,TOR,CLB,0,0,0,1,1
+41003,12.14,Paulo de Araujo Junior,RSL,Donovan Ricketts,MTL,Goal,RSL,MTL,0,0,1,1,0
+41013,60.19,Bernardo Corradi,MTL,Kevin Hartman,FCD,Goal,FCD,MTL,0,0,1,1,0
+41013,37.26,Gabriel Gomez,PHI,Andy Gruenebaum,CLB,Goal,PHI,CLB,0,0,1,1,0
+41020,92.14,Omar Cummings,COL,Josh Saunders,LA,Saved,COL,LA,1,2,0,1,1
+41024,45.53,Brek Shea,FCD,Nick Rimando,RSL,Goal,FCD,RSL,0,0,1,1,0
+41027,83.42,Jeff Larentowicz,COL,Dan Kennedy,CHV,Goal,COL,CHV,2,0,1,1,0
+41027,48.23,Robbie Keane,LA,Chris Seitz,FCD,Miss,LA,FCD,0,0,0,0,0
+41027,60.16,Brek Shea,FCD,Bill Gaudette,LA,Goal,LA,FCD,0,0,1,1,0
+41027,75.3,Bernardo Corradi,MTL,Joe Bendik,POR,Goal,MTL,POR,0,0,1,1,0
+41027,17.04,Torsten Frings,TOR,Nick Rimando,RSL,Post,RSL,TOR,1,0,0,0,0
+41033,22.13,Juan Pablo Angel,CHV,Sean Johnson,CHI,Goal,CHV,CHI,0,0,1,1,0
+41034,63.15,Patrice Bernier,MTL,Jimmy Nielsen,SKC,Goal,SKC,MTL,0,1,1,1,0
+41041,60.07,Sebastian Grazzini,CHI,Jimmy Nielsen,SKC,Goal,CHI,SKC,0,1,1,1,0
+41048,71.21,Jose Correa,CHV,Brian Perk,LA,Goal,CHV,LA,0,0,1,1,0
+41048,21.07,Bernardo Corradi,MTL,Ryan Meara,NYRB,Goal,MTL,NYRB,0,0,1,1,0
+41048,36.09,Kenny Cooper,NYRB,Donovan Ricketts,MTL,Goal,MTL,NYRB,1,0,1,1,0
+41048,25.1,Saer Sene,NE,Tally Hall,HOU,Goal,NE,HOU,0,0,1,1,0
+41048,21.4,Chris Wondolowski,SJ,Andy Gruenebaum,CLB,Saved,SJ,CLB,0,0,0,1,1
+41052,51.08,Blas Perez,FCD,Sean Johnson,CHI,Saved,CHI,FCD,1,1,0,1,1
+41052,62.28,Sebastian Grazzini,CHI,Kevin Hartman,FCD,Saved,CHI,FCD,1,1,0,1,1
+41052,81.4,Khari Stephenson,SJ,Brian Perk,LA,Goal,LA,SJ,2,1,1,1,0
+41055,17.32,Jeff Larentowicz,COL,Donovan Ricketts,MTL,Goal,COL,MTL,0,1,1,1,0
+41080,91.34,Chris Wondolowski,SJ,Matt Pickens,COL,Goal,COL,SJ,2,0,1,1,0
+41083,40.19,Landon Donovan,LA,Joe Cannon,VAN,Goal,LA,VAN,2,0,1,1,0
+41083,67,Patrice Bernier,MTL,Tally Hall,HOU,Goal,MTL,HOU,3,2,1,1,0
+41083,80.36,Lionard Pajoy,PHI,Jimmy Nielsen,SKC,Goal,PHI,SKC,2,0,1,1,0
+41090,82.12,Brian Ching,HOU,Zac MacMath,PHI,Goal,HOU,PHI,1,1,1,1,0
+41094,56.22,Kei Kamara,SKC,Donovan Ricketts,MTL,Goal,MTL,SKC,1,0,1,1,0
+41094,74.35,Graham Zusi,SKC,Donovan Ricketts,MTL,Goal,MTL,SKC,1,1,1,1,0
+41097,74.16,Alvaro Saborio,RSL,Troy Perkins,POR,Goal,RSL,POR,2,0,1,1,0
+41098,23.33,Robbie Keane,LA,Sean Johnson,CHI,Goal,CHI,LA,0,0,1,1,0
+41098,88.24,Patrice Bernier,MTL,Andy Gruenebaum,CLB,Goal,MTL,CLB,1,1,1,1,0
+41104,26.37,Landon Donovan,LA,Troy Perkins,POR,Goal,POR,LA,1,2,1,1,0
+41105,18.43,Brad Davis,HOU,Bill Hamid,DCU,Goal,HOU,DCU,0,0,1,1,0
+41105,88.09,Brian Ching,HOU,Bill Hamid,DCU,Goal,HOU,DCU,3,0,1,1,0
+41108,41.43,Kei Kamara,SKC,Tally Hall,HOU,Goal,HOU,SKC,1,0,1,1,0
+41108,27.33,Patrice Bernier,MTL,Matt Reis,NE,Goal,MTL,NE,0,0,1,1,0
+41108,61.48,Chris Wondolowski,SJ,Kevin Hartman,FCD,Saved,SJ,FCD,2,0,0,1,1
+41108,93.08,Jair Benitez,FCD,Jon Busch,SJ,Miss,SJ,FCD,2,1,0,0,0
+41108,2.59,Ryan Johnson,TOR,Matt Pickens,COL,Post,TOR,COL,0,0,0,0,0
+41112,62,Barry Robson,VAN,Jon Busch,SJ,Goal,VAN,SJ,1,1,1,1,0
+41117,33.08,Alvaro Saborio,RSL,Joe Cannon,VAN,Goal,RSL,VAN,0,0,1,1,0
+41119,58.18,Freddy Adu,PHI,Matt Reis,NE,Goal,PHI,NE,0,1,1,1,0
+41139,4.34,Chris Rolfe,CHI,Matt Reis,NE,Goal,CHI,NE,0,0,1,1,0
+41139,22.07,Chris Wondolowski,SJ,Troy Perkins,MTL,Goal,MTL,SJ,0,0,1,1,0
+41139,71.15,Patrice Bernier,MTL,Jon Busch,SJ,Goal,MTL,SJ,2,1,1,1,0
+41140,89.15,Dwayne De Rosario,DCU,Zac MacMath,PHI,Post,DCU,PHI,1,1,0,0,0
+41146,37.4,Juan Agudelo,CHV,Michael Gspurning,SEA,Goal,CHV,SEA,0,3,1,1,0
+41146,80.47,Lee Nguyen,NE,Matt Lampson,CLB,Goal,CLB,NE,3,2,1,1,0
+41146,49.18,Patrice Bernier,MTL,Bill Hamid,DCU,Goal,MTL,DCU,1,0,1,1,0
+41158,75.49,Brad Davis,HOU,Nick Rimando,RSL,Saved,HOU,RSL,0,0,0,1,1
+41158,93.5,Colin Clark,HOU,Nick Rimando,RSL,Goal,HOU,RSL,0,0,1,1,0
+41167,39.44,Chris Wondolowski,SJ,Dan Kennedy,CHV,Goal,CHV,SJ,0,0,1,1,0
+41167,15.21,David Ferreira,FCD,Brad Knighton,VAN,Saved,FCD,VAN,0,0,0,1,1
+41175,49.53,Freddy Adu,PHI,Tally Hall,HOU,Goal,PHI,HOU,1,1,1,1,0
+41181,64.28,Danny Cruz,PHI,Andy Gruenebaum,CLB,Goal,CLB,PHI,2,0,1,1,0
+41181,59.3,Chris Pontius,DCU,Joe Bendik,POR,Goal,POR,DCU,0,0,1,1,0
+41188,91.04,Andre Akpan,COL,Jon Busch,SJ,Goal,COL,SJ,0,4,1,1,0
+41202,74.32,Brad Davis,HOU,Zac MacMath,PHI,Goal,HOU,PHI,2,1,1,1,0
+41203,31.07,Brad Evans,SEA,Kevin Hartman,FCD,Goal,SEA,FCD,0,0,1,1,0
+41206,52.35,Michael Farfan,PHI,Jimmy Nielsen,SKC,Saved,SKC,PHI,1,0,0,1,1
+41209,12.04,Kenny Cooper,NYRB,Zac MacMath,PHI,Goal,PHI,NYRB,0,0,1,1,0
+41209,23.06,Chris Wondolowski,SJ,Donovan Ricketts,POR,Goal,POR,SJ,0,0,1,1,0
+41210,61.11,Federico Higuain,CLB,Freddy Hall,TOR,Goal,CLB,TOR,1,1,1,1,0
+41335,39.51,Brad Davis,HOU,Bill Hamid,DCU,Saved,HOU,DCU,0,0,0,1,1
+41342,20.47,Robert Earnshaw,TOR,Jimmy Nielsen,SKC,Goal,TOR,SKC,1,0,1,1,0
+41343,91.06,Chris Wondolowski,SJ,Luis Robles,NYRB,Goal,SJ,NYRB,1,1,1,1,0
+41349,33.02,Patrice Bernier,MTL,Joe Bendik,TOR,Goal,MTL,TOR,0,0,1,1,0
+41349,67.4,Robert Earnshaw,TOR,Troy Perkins,MTL,Goal,MTL,TOR,2,0,1,1,0
+41356,49.13,Mike Magee,LA,Clinton Irwin,COL,Goal,LA,COL,0,0,1,1,0
+41363,47.52,Hendry Thomas,COL,Donovan Ricketts,POR,Goal,COL,POR,1,0,1,1,0
+41363,70.26,Will Johnson,POR,Clinton Irwin,COL,Goal,COL,POR,2,1,1,1,0
+41370,8.59,Alvaro Saborio,RSL,Clinton Irwin,COL,Saved,COL,RSL,1,0,0,1,1
+41371,24.41,Chris Rolfe,CHI,Luis Robles,NYRB,Miss,CHI,NYRB,0,1,0,0,0
+41377,6.19,Deshorn Brown,COL,Dan Kennedy,CHV,Goal,CHV,COL,0,0,1,1,0
+41377,35.52,Jose Correa,CHV,Clinton Irwin,COL,Post,CHV,COL,0,1,0,0,0
+41377,60.51,Kenny Cooper,FCD,Carlo Cudicini,LA,Saved,FCD,LA,0,0,0,1,1
+41377,68.27,Landon Donovan,LA,Raul Fernandez,FCD,Saved,FCD,LA,0,0,0,1,1
+41377,83.18,Camilo Da Silva Sanvezzo,VAN,Nick Rimando,RSL,Goal,VAN,RSL,0,1,1,1,0
+41384,35.43,Edgar Mejia,CHV,Nick Rimando,RSL,Saved,RSL,CHV,0,0,0,1,1
+41391,46.22,Federico Higuain,CLB,Bill Hamid,DCU,Goal,CLB,DCU,2,0,1,1,0
+41398,71.39,Federico Higuain,CLB,Luis Robles,NYRB,Saved,CLB,NYRB,0,0,0,1,1
+41399,24.23,Landon Donovan,LA,Tally Hall,HOU,Saved,LA,HOU,0,0,0,1,1
+41399,56.2,Claudio Bieler,SKC,Dan Kennedy,CHV,Goal,SKC,CHV,1,0,1,1,0
+41402,76.55,Kenny Cooper,FCD,Donovan Ricketts,POR,Goal,FCD,POR,0,1,1,1,0
+41402,91.45,Saer Sene,NE,Nick Rimando,RSL,Saved,NE,RSL,1,2,0,1,1
+41412,51.39,Will Johnson,POR,Brad Knighton,VAN,Goal,VAN,POR,1,0,1,1,0
+41420,33.16,Robbie Keane,LA,Michael Gspurning,SEA,Goal,LA,SEA,2,0,1,1,0
+41420,43.44,Robbie Keane,LA,Michael Gspurning,SEA,Goal,LA,SEA,3,0,1,1,0
+41420,73.47,Federico Higuain,CLB,Luis Robles,NYRB,Goal,NYRB,CLB,1,1,1,1,0
+41426,68.54,Federico Higuain,CLB,Tally Hall,HOU,Goal,CLB,HOU,0,1,1,1,0
+41426,48.06,Claudio Bieler,SKC,Troy Perkins,MTL,Goal,SKC,MTL,0,0,1,1,0
+41433,69.12,Servando Carrasco,SEA,Brad Knighton,VAN,Goal,SEA,VAN,1,2,1,1,0
+41440,18.02,Dwayne De Rosario,DCU,Joe Bendik,TOR,Goal,DCU,TOR,0,0,1,1,0
+41440,24.12,Camilo Da Silva Sanvezzo,VAN,Bobby Shuttleworth,NE,Goal,VAN,NE,0,2,1,1,0
+41444,22.03,Mike Magee,CHI,Clinton Irwin,COL,Goal,CHI,COL,0,1,1,1,0
+41444,21.3,Giles Barnes,HOU,Troy Perkins,MTL,Miss,MTL,HOU,1,0,0,0,0
+41447,6.25,Federico Higuain,CLB,Sean Johnson,CHI,Goal,CLB,CHI,0,0,1,1,0
+41447,10.07,Chris Pontius,DCU,Jon Busch,SJ,Goal,DCU,SJ,0,0,1,1,0
+41447,42.58,Kei Kamara,SKC,Raul Fernandez,FCD,Goal,FCD,SKC,0,0,1,1,0
+41454,47.04,Camilo Da Silva Sanvezzo,VAN,Bill Hamid,DCU,Goal,DCU,VAN,0,0,1,1,0
+41458,96.04,Javier Morales,RSL,Zac MacMath,PHI,Goal,RSL,PHI,1,2,1,1,0
+41459,84.59,Robbie Keane,LA,Andy Gruenebaum,CLB,Goal,LA,CLB,0,1,1,1,0
+41459,91.03,Robbie Keane,LA,Andy Gruenebaum,CLB,Goal,LA,CLB,1,1,1,1,0
+41462,11.4,Federico Higuain,CLB,Donovan Ricketts,POR,Miss,CLB,POR,1,0,0,0,0
+41462,79.37,Patrice Bernier,MTL,Dan Kennedy,CHV,Goal,MTL,CHV,0,1,1,1,0
+41468,87.17,Peguy Luyindula,NYRB,Troy Perkins,MTL,Goal,NYRB,MTL,3,0,1,1,0
+41475,55.12,Mike Magee,CHI,Joe Willis,DCU,Goal,CHI,DCU,3,0,1,1,0
+41482,22.4,Fabian Espindola,NYRB,Jeff Attinella,RSL,Goal,NYRB,RSL,1,0,1,1,0
+41482,44.06,Alvaro Saborio,RSL,Luis Robles,NYRB,Goal,NYRB,RSL,2,0,1,1,0
+41482,88.43,Fabian Espindola,NYRB,Jeff Attinella,RSL,Goal,NYRB,RSL,2,3,1,1,0
+41482,54.24,Victor Bernardez,SJ,Donovan Ricketts,POR,Goal,SJ,POR,0,0,1,1,0
+41489,20.59,Alvaro Saborio,RSL,Clinton Irwin,COL,Goal,COL,RSL,1,1,1,1,0
+41489,9.39,Brad Davis,HOU,Matt Lampson,CLB,Goal,HOU,CLB,0,0,1,1,0
+41489,93.13,Brad Evans,SEA,Raul Fernandez,FCD,Goal,SEA,FCD,2,0,1,1,0
+41496,61.56,Federico Higuain,CLB,Luis Robles,NYRB,Goal,CLB,NYRB,0,0,1,1,0
+41496,36.44,Alvaro Saborio,RSL,Tally Hall,HOU,Goal,RSL,HOU,0,0,1,1,0
+41497,27.38,Deshorn Brown,COL,Dan Kennedy,CHV,Saved,CHV,COL,1,0,0,1,1
+41507,42.42,Javier Morales,RSL,Donovan Ricketts,POR,Goal,POR,RSL,1,1,1,1,0
+41507,56.25,Diego Valeri,POR,Jeff Attinella,RSL,Goal,POR,RSL,1,2,1,1,0
+41510,71.37,Michel Garbini Pereira,FCD,Jon Busch,SJ,Goal,FCD,SJ,1,2,1,1,0
+41511,46.19,Erick Torres,CHV,Luis Robles,NYRB,Goal,CHV,NYRB,1,1,1,1,0
+41517,42.1,Robbie Keane,LA,Jon Busch,SJ,Goal,LA,SJ,1,0,1,1,0
+41517,72.53,Dwayne De Rosario,DCU,Luis Robles,NYRB,Saved,NYRB,DCU,2,1,0,1,1
+41521,49.59,Ryan Finley,CLB,Tally Hall,HOU,Saved,CLB,HOU,1,0,0,1,1
+41524,29.58,Osvaldo Alonso,SEA,Sean Johnson,CHI,Saved,SEA,CHI,0,1,0,1,1
+41524,6.16,Claudio Bieler,SKC,Matt Lampson,CLB,Goal,SKC,CLB,0,0,1,1,0
+41525,7.46,Patrice Bernier,MTL,Bobby Shuttleworth,NE,Goal,NE,MTL,0,0,1,1,0
+41525,32.11,Patrice Bernier,MTL,Bobby Shuttleworth,NE,Goal,NE,MTL,1,1,1,1,0
+41538,69.07,Federico Higuain,CLB,Sean Johnson,CHI,Goal,CLB,CHI,1,0,1,1,0
+41538,90.34,Oscar Boniek Garcia,HOU,Dan Kennedy,CHV,Goal,HOU,CHV,4,1,1,1,0
+41538,6.31,Kenny Miller,VAN,Troy Perkins,MTL,Goal,MTL,VAN,0,0,1,1,0
+41538,56.23,Lee Nguyen,NE,Bill Hamid,DCU,Saved,NE,DCU,0,1,0,1,1
+41538,82.24,Lee Nguyen,NE,Bill Hamid,DCU,Goal,NE,DCU,1,1,1,1,0
+41545,78.06,Mike Magee,CHI,Troy Perkins,MTL,Post,CHI,MTL,2,1,0,0,0
+41546,44.33,Brad Evans,SEA,Luis Robles,NYRB,Goal,SEA,NYRB,0,0,1,1,0
+41552,84.18,Lee Nguyen,NE,Luis Robles,NYRB,Goal,NYRB,NE,1,0,1,1,0
+41559,74.35,Kenny Cooper,FCD,Sean Johnson,CHI,Goal,FCD,CHI,1,3,1,1,0
+41566,63.2,Mike Magee,CHI,Stefan Frei,TOR,Goal,CHI,TOR,0,0,1,1,0
+41566,40.57,Gabriel Torres,COL,David Ousted,VAN,Goal,COL,VAN,0,1,1,1,0
+41566,74.27,Camilo Da Silva Sanvezzo,VAN,Clinton Irwin,COL,Goal,COL,VAN,2,1,1,1,0
+41566,68.51,Chris Tierney,NE,Matt Lampson,CLB,Goal,NE,CLB,1,1,1,1,0
+41570,48.1,Alvaro Saborio,RSL,Tim Melia,CHV,Goal,RSL,CHV,0,0,1,1,0
+41574,10.55,Oscar Boniek Garcia,HOU,Bill Hamid,DCU,Goal,DCU,HOU,0,0,1,1,0
+41574,42.5,Camilo Da Silva Sanvezzo,VAN,Clinton Irwin,COL,Goal,VAN,COL,0,0,1,1,0
+41706,26.37,Federico Higuain,CLB,Bill Hamid,DCU,Goal,DCU,CLB,0,1,1,1,0
+41706,23.33,Blas Perez,FCD,Troy Perkins,MTL,Goal,FCD,MTL,1,1,1,1,0
+41706,92.4,Robbie Keane,LA,Nick Rimando,RSL,Saved,LA,RSL,0,1,0,1,1
+41706,33.45,Kenny Miller,VAN,Luis Robles,NYRB,Goal,VAN,NYRB,0,0,1,1,0
+41707,55.56,Erick Torres,CHV,Sean Johnson,CHI,Goal,CHV,CHI,0,0,1,1,0
+41713,71.55,Vicente Sanchez,COL,Luis Robles,NYRB,Goal,NYRB,COL,1,0,1,1,0
+41714,18.55,Jeff Larentowicz,CHI,Donovan Ricketts,POR,Goal,POR,CHI,0,0,1,1,0
+41720,72.24,Vicente Sanchez,COL,Andrew Weber,POR,Goal,COL,POR,0,0,1,1,0
+41720,74.4,Deshorn Brown,COL,Andrew Weber,POR,Saved,COL,POR,1,0,0,1,1
+41720,56.5,Dominic Dwyer,SKC,Jon Busch,SJ,Goal,SKC,SJ,0,0,1,1,0
+41727,59.25,Vicente Sanchez,COL,Eric Kronberg,SKC,Goal,COL,SKC,0,1,1,1,0
+41727,77.43,Vicente Sanchez,COL,Eric Kronberg,SKC,Goal,COL,SKC,1,1,1,1,0
+41727,10.43,Alvaro Saborio,RSL,Julio Cesar,TOR,Goal,RSL,TOR,0,0,1,1,0
+41727,59,Federico Higuain,CLB,Stefan Frei,SEA,Goal,SEA,CLB,1,0,1,1,0
+41727,57.07,Kenny Miller,VAN,Tally Hall,HOU,Goal,VAN,HOU,1,0,1,1,0
+41728,24.09,Erick Torres,CHV,Luis Robles,NYRB,Goal,NYRB,CHV,0,0,1,1,0
+41734,95.47,Mike Magee,CHI,Zac MacMath,PHI,Saved,CHI,PHI,2,2,0,1,1
+41734,30.23,Michel Garbini Pereira,FCD,Tally Hall,HOU,Goal,HOU,FCD,0,0,1,1,0
+41734,81.08,Oscar Boniek Garcia,HOU,Chris Seitz,FCD,Saved,HOU,FCD,1,4,0,1,1
+41734,47.28,Peguy Luyindula,NYRB,Troy Perkins,MTL,Post,MTL,NYRB,1,2,0,0,0
+41734,86.46,Clint Dempsey,SEA,Andrew Weber,POR,Goal,POR,SEA,4,3,1,1,0
+41741,41.5,Michel Garbini Pereira,FCD,Stefan Frei,SEA,Goal,FCD,SEA,1,1,1,1,0
+41741,4.59,Alvaro Saborio,RSL,Zac MacMath,PHI,Saved,PHI,RSL,0,0,0,1,1
+41745,79.5,Sebastien Le Toux,PHI,Luis Robles,NYRB,Goal,NYRB,PHI,2,0,1,1,0
+41748,30.37,Lee Nguyen,NE,Sean Johnson,CHI,Goal,CHI,NE,1,0,1,1,0
+41748,90.44,Juan Luis Anangono,CHI,Bobby Shuttleworth,NE,Saved,CHI,NE,1,1,0,1,1
+41748,4.29,Erick Torres,CHV,Stefan Frei,SEA,Goal,CHV,SEA,0,0,1,1,0
+41752,85.07,Bradley Wright-Phillips,NYRB,Tally Hall,HOU,Goal,NYRB,HOU,3,0,1,1,0
+41755,38.09,Jairo Arrieta,CLB,Luis Robles,NYRB,Goal,CLB,NYRB,0,0,1,1,0
+41755,94.09,Lee Nguyen,NE,Eric Kronberg,SKC,Goal,NE,SKC,1,0,1,1,0
+41762,6.4,Erick Torres,CHV,Tally Hall,HOU,Goal,CHV,HOU,0,0,1,1,0
+41762,68.04,Giles Barnes,HOU,Trevor Spangenberg,CHV,Goal,CHV,HOU,1,3,1,1,0
+41762,61.32,Robbie Keane,LA,Clinton Irwin,COL,Miss,COL,LA,1,0,0,0,0
+41762,39.13,Osvaldo Alonso,SEA,Zac MacMath,PHI,Saved,SEA,PHI,0,1,0,1,1
+41762,81.46,Lee Nguyen,NE,Julio Cesar,TOR,Goal,TOR,NE,1,1,1,1,0
+41762,18.1,Pedro Morales,VAN,Jon Busch,SJ,Goal,VAN,SJ,1,0,1,1,0
+41762,44.05,Chris Wondolowski,SJ,David Ousted,VAN,Goal,VAN,SJ,3,0,1,1,0
+41763,58.38,Blas Perez,FCD,Luis Robles,NYRB,Saved,FCD,NYRB,0,0,0,1,1
+41766,15.22,Michel Garbini Pereira,FCD,Stefan Frei,SEA,Goal,SEA,FCD,0,0,1,1,0
+41769,17.15,Dominic Dwyer,SKC,Troy Perkins,MTL,Goal,MTL,SKC,0,0,1,1,0
+41769,77.52,Bradley Wright-Phillips,NYRB,Sean Johnson,CHI,Goal,NYRB,CHI,3,5,1,1,0
+41770,35.53,Giles Barnes,HOU,Nick Rimando,RSL,Saved,HOU,RSL,1,3,0,1,1
+41770,88.47,Javier Morales,RSL,Tally Hall,HOU,Goal,HOU,RSL,2,4,1,1,0
+41776,91.04,Sebastien Le Toux,PHI,Brad Knighton,NE,Goal,PHI,NE,2,5,1,1,0
+41776,49.48,Federico Higuain,CLB,Donovan Ricketts,POR,Goal,POR,CLB,1,1,1,1,0
+41776,50.47,Javier Morales,RSL,Clinton Irwin,COL,Goal,RSL,COL,1,0,1,1,0
+41777,6.23,Mike Magee,CHI,Eric Kronberg,SKC,Goal,CHI,SKC,0,0,1,1,0
+41777,15,Mike Magee,CHI,Eric Kronberg,SKC,Goal,CHI,SKC,1,0,1,1,0
+41782,83.53,Dominic Dwyer,SKC,Joe Bendik,TOR,Goal,SKC,TOR,1,1,1,1,0
+41783,4.18,Dillon Powers,COL,Troy Perkins,MTL,Goal,COL,MTL,0,0,1,1,0
+41783,35.42,Bradley Wright-Phillips,NYRB,Donovan Ricketts,POR,Goal,NYRB,POR,0,0,1,1,0
+41783,81.31,Gonzalo Pineda,SEA,David Ousted,VAN,Goal,VAN,SEA,2,1,1,1,0
+41784,87.58,Maurice Edu,PHI,Jaime Penedo,LA,Goal,LA,PHI,4,0,1,1,0
+41784,57.27,Khari Stephenson,SJ,Tally Hall,HOU,Goal,SJ,HOU,1,0,1,1,0
+41790,27.52,Conor Casey,PHI,Dan Kennedy,CHV,Goal,CHV,PHI,0,0,1,1,0
+41790,46.32,Fabian Castillo,FCD,Jon Busch,SJ,Saved,FCD,SJ,1,2,0,1,1
+41790,41.29,Gonzalo Pineda,SEA,Jeff Attinella,RSL,Goal,SEA,RSL,0,0,1,1,0
+41790,20.21,Jermain Defoe,TOR,Steve Clark,CLB,Goal,TOR,CLB,0,1,1,1,0
+41791,67.08,Jeff Larentowicz,CHI,Jaime Penedo,LA,Goal,CHI,LA,0,0,1,1,0
+41791,15.26,Pedro Morales,VAN,Donovan Ricketts,POR,Goal,POR,VAN,1,0,1,1,0
+41791,25.1,Pedro Morales,VAN,Donovan Ricketts,POR,Goal,POR,VAN,1,1,1,1,0
+41794,11.22,Federico Higuain,CLB,Jeff Attinella,RSL,Miss,CLB,RSL,0,0,0,0,0
+41796,69.22,Dominic Dwyer,SKC,Tyler Deric,HOU,Goal,HOU,SKC,0,1,1,1,0
+41797,37.55,Obafemi Martins,SEA,Sean Johnson,CHI,Goal,CHI,SEA,0,1,1,1,0
+41797,95.07,Fabian Espindola,DCU,Steve Clark,CLB,Saved,DCU,CLB,0,0,0,1,1
+41797,80.51,Pedro Morales,VAN,Zac MacMath,PHI,Goal,PHI,VAN,3,2,1,1,0
+41797,72.39,Will Johnson,POR,Jeff Attinella,RSL,Goal,RSL,POR,1,2,1,1,0
+41797,26.34,Jermain Defoe,TOR,Jon Busch,SJ,Goal,TOR,SJ,0,0,1,1,0
+41801,49.24,Luis Silva,DCU,Troy Perkins,MTL,Goal,MTL,DCU,2,3,1,1,0
+41801,75.48,Patrice Bernier,MTL,Andrew Dykstra,DCU,Post,MTL,DCU,2,4,0,0,0
+41801,78.03,Will Johnson,POR,Raul Fernandez,FCD,Goal,POR,FCD,0,2,1,1,0
+41818,35.29,Vicente Sanchez,COL,David Ousted,VAN,Goal,COL,VAN,1,0,1,1,0
+41824,81.06,Brad Davis,HOU,Luis Robles,NYRB,Goal,HOU,NYRB,1,2,1,1,0
+41824,34.13,Javier Morales,RSL,Bobby Shuttleworth,NE,Goal,RSL,NE,0,0,1,1,0
+41824,64.51,Joao Plata,RSL,Bobby Shuttleworth,NE,Goal,RSL,NE,1,1,1,1,0
+41831,11.14,Eddie Johnson,DCU,Jon Busch,SJ,Goal,SJ,DCU,0,0,1,1,0
+41832,97.12,Marcelo Sarvas,LA,Nick Rimando,RSL,Saved,LA,RSL,1,0,0,1,1
+41832,85,Chris Tierney,NE,Sean Johnson,CHI,Saved,NE,CHI,0,1,0,1,1
+41832,78.22,Dillon Powers,COL,Zac MacMath,PHI,Goal,PHI,COL,3,1,1,1,0
+41836,37.17,Lee Nguyen,NE,Jaime Penedo,LA,Goal,LA,NE,2,0,1,1,0
+41836,68.1,Sebastien Le Toux,PHI,Luis Robles,NYRB,Goal,PHI,NYRB,2,1,1,1,0
+41836,63.09,Jermain Defoe,TOR,David Ousted,VAN,Goal,TOR,VAN,0,1,1,1,0
+41839,90.03,Sebastien Le Toux,PHI,Sean Johnson,CHI,Goal,CHI,PHI,1,0,1,1,0
+41839,28.03,Michael Bradley,TOR,Tally Hall,HOU,Post,HOU,TOR,2,1,0,0,0
+41839,32.55,Bradley Wright-Phillips,NYRB,Jon Busch,SJ,Goal,NYRB,SJ,0,0,1,1,0
+41839,72.16,Darren Mattocks,VAN,Nick Rimando,RSL,Goal,RSL,VAN,0,0,1,1,0
+41840,24.56,Eddie Johnson,DCU,Dan Kennedy,CHV,Goal,DCU,CHV,0,0,1,1,0
+41840,83.14,Erick Torres,CHV,Bill Hamid,DCU,Goal,DCU,CHV,3,0,1,1,0
+41847,39.34,Will Johnson,POR,Evan Bush,MTL,Goal,MTL,POR,1,1,1,1,0
+41847,38.48,Michel Garbini Pereira,FCD,David Ousted,VAN,Goal,VAN,FCD,1,1,1,1,0
+41847,52.12,Pedro Morales,VAN,Raul Fernandez,FCD,Goal,VAN,FCD,1,2,1,1,0
+41853,36.33,Mike Magee,CHI,Steve Clark,CLB,Goal,CHI,CLB,0,0,1,1,0
+41853,84.32,Robbie Keane,LA,Donovan Ricketts,POR,Goal,LA,POR,2,1,1,1,0
+41860,46.4,Federico Higuain,CLB,Joe Bendik,TOR,Goal,CLB,TOR,0,1,1,1,0
+41860,10.48,Michel Garbini Pereira,FCD,Clinton Irwin,COL,Goal,FCD,COL,1,0,1,1,0
+41860,85.31,Gabriel Torres,COL,Raul Fernandez,FCD,Goal,FCD,COL,3,0,1,1,0
+41861,37.22,Mike Magee,CHI,Luis Robles,NYRB,Saved,CHI,NYRB,0,0,0,1,1
+41861,25.21,Brad Davis,HOU,Stefan Frei,SEA,Saved,SEA,HOU,0,0,0,1,1
+41861,74.39,Gonzalo Pineda,SEA,Tally Hall,HOU,Goal,SEA,HOU,1,0,1,1,0
+41861,84.27,Darren Mattocks,VAN,Jon Kempin,SKC,Saved,VAN,SKC,2,0,0,1,1
+41867,48.06,Chris Wondolowski,SJ,Raul Fernandez,FCD,Miss,SJ,FCD,0,2,0,0,0
+41867,17.1,Dominic Dwyer,SKC,Joe Bendik,TOR,Goal,SKC,TOR,0,0,1,1,0
+41867,32.35,Dominic Dwyer,SKC,Joe Bendik,TOR,Goal,SKC,TOR,1,0,1,1,0
+41878,74.17,Landon Donovan,LA,Bill Hamid,DCU,Goal,LA,DCU,3,1,1,1,0
+41881,35.13,Javier Morales,RSL,Jon Busch,SJ,Goal,SJ,RSL,1,0,1,1,0
+41885,59.03,Ryan Finley,CHV,Stefan Frei,SEA,Goal,CHV,SEA,1,4,1,1,0
+41887,4.24,Landon Donovan,LA,Clinton Irwin,COL,Goal,LA,COL,0,0,1,1,0
+41887,46.48,Landon Donovan,LA,Clinton Irwin,COL,Goal,LA,COL,3,0,1,1,0
+41888,10.51,Bradley Wright-Phillips,NYRB,Andy Gruenebaum,SKC,Goal,NYRB,SKC,0,0,1,1,0
+41889,45.21,Federico Higuain,CLB,Dan Kennedy,CHV,Post,CLB,CHV,0,0,0,0,0
+41892,38.35,Pedro Morales,VAN,Jon Busch,SJ,Goal,VAN,SJ,0,0,1,1,0
+41895,56.36,Jeff Larentowicz,CHI,Joe Bendik,TOR,Saved,CHI,TOR,1,0,0,1,1
+41895,47.55,Dillon Powers,COL,Donovan Ricketts,POR,Goal,COL,POR,0,1,1,1,0
+41895,36.1,Peguy Luyindula,NYRB,Zac MacMath,PHI,Goal,PHI,NYRB,0,0,1,1,0
+41895,92,Sebastien Le Toux,PHI,Luis Robles,NYRB,Goal,PHI,NYRB,1,2,1,1,0
+41896,36.44,Robbie Keane,LA,Jon Busch,SJ,Post,SJ,LA,0,1,0,0,0
+41902,31.06,Jeff Larentowicz,CHI,Bill Hamid,DCU,Goal,CHI,DCU,1,0,1,1,0
+41902,38.25,Luis Silva,DCU,Sean Johnson,CHI,Goal,CHI,DCU,2,0,1,1,0
+41902,84.24,Federico Higuain,CLB,Bobby Shuttleworth,NE,Saved,CLB,NE,1,0,0,1,1
+41902,53.4,Bradley Wright-Phillips,NYRB,Stefan Frei,SEA,Goal,NYRB,SEA,1,0,1,1,0
+41909,57.04,Federico Higuain,CLB,Evan Bush,MTL,Goal,CLB,MTL,1,0,1,1,0
+41909,90.36,Marco Di Vaio,MTL,Steve Clark,CLB,Saved,CLB,MTL,2,0,0,1,1
+41909,47.33,Pedro Morales,VAN,Jeff Attinella,RSL,Saved,VAN,RSL,0,0,0,1,1
+41909,61.08,Pedro Morales,VAN,Jeff Attinella,RSL,Goal,VAN,RSL,0,1,1,1,0
+41917,63.05,Erick Torres,CHV,Nick Rimando,RSL,Saved,CHV,RSL,1,0,0,1,1
+41917,10.13,Clint Dempsey,SEA,Clinton Irwin,COL,Goal,COL,SEA,0,0,1,1,0
+41920,50.01,Diego Valeri,POR,Jon Busch,SJ,Goal,POR,SJ,1,0,1,1,0
+41920,57.49,Jermain Defoe,TOR,Tyler Deric,HOU,Saved,TOR,HOU,0,1,0,1,1
+41922,12.16,Dominic Dwyer,SKC,Sean Johnson,CHI,Miss,SKC,CHI,0,0,0,0,0
+41924,82.09,Giles Barnes,HOU,Bill Hamid,DCU,Goal,HOU,DCU,0,2,1,1,0
+41930,55.42,Blas Perez,FCD,Clinton Irwin,COL,Goal,COL,FCD,0,0,1,1,0
+41930,53.28,Dominic Dwyer,SKC,Zac MacMath,PHI,Goal,PHI,SKC,1,0,1,1,0
+41934,35.39,Alvaro Saborio,RSL,Dan Kennedy,CHV,Goal,RSL,CHV,0,0,1,1,0
+41936,65.11,Jeff Larentowicz,CHI,Tyler Deric,HOU,Goal,CHI,HOU,0,1,1,1,0
